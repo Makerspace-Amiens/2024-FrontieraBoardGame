@@ -6,7 +6,7 @@ Cette section vise à sélectionner les composants électroniques appropriés po
 
 #### Analyse des besoins
 Le jeu "Frontiera" nécessite des composants électroniques capables de prendre en charge les fonctionnalités suivantes :
-- Détection et représentation des cases territoire sur le plateau de jeu virtueel.
+- Détection et représentation des cases territoire sur le plateau de jeu.
 - Affichage clair des couleurs des joueurs sur les cases territoire occupées.
 - Interaction avec les cartes défi et duel pour lancer et résoudre les défis et duels.
 - Gestion du déroulement des tours de jeu, y compris la mise en jeu des cases territoire et le décompte des points à la fin de chaque tour.

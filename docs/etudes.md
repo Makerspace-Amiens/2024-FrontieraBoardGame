@@ -15,7 +15,7 @@ Le jeu "Frontiera" nécessite des composants électroniques capables de prendre 
 En tenant compte des exigences du jeu "FrontieraBoardGame", les composants éléctroniques suivants sont choisis :
 
 1. **Microcontrôleur** :
-   - Arduino Mega : Offre une grande capacité de traitement et de connectivité, adaptée à la gestion des interactions entre les joueurs et le plateau de jeu.
+   - ESP32 : Offre une grande capacité de traitement et de connectivité, adaptée à la gestion des interactions entre les joueurs et le plateau de jeu.
 
 2. **LEDs Neopixels** :
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoire. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.

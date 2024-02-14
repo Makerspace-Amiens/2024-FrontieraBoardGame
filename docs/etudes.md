@@ -20,7 +20,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 2. **LEDs Neopixels** :
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoire. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.
 
-3. **Écran LCD** :
+3. **Écran TFT** :
    - Pour afficher les informations pertinentes du jeu telles que les instructions, les défis en cours et le décompte des points à la fin de chaque tour.
 
 5. **Batterie et alimentation** :

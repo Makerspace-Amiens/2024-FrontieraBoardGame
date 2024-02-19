@@ -6,7 +6,14 @@ title: Accueil
 
 # Bienvenue sur notre documentation
 
-Bienvenue dans la documentation du projet XYZ. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site présentera le fonctionnement de la version physique.  
+
+Le jeu consiste à conquérir le plus de territoires grâce à des défis interactifs. A chaque tour, un joueur reçoit un défi, le principe : il met en jeu un nombre de cases territoire.  
+
+• S'il réussit le défi, il gagne le double des cases qu'il a mises en jeu.  
+• S'il échoue, il perd les cases mises en jeu.  
+
+Une fois le défi achevé, c'est la fin du tour. La partie se termine lorsque le temps est écoulé ou lorsqu'il ne reste qu'un seul joueur sur le plateau. 
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
 

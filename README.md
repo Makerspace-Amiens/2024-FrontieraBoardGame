@@ -4,7 +4,8 @@ Template pour la création d'un repo type projet pour le MakerSpace. Doc gérée
 
 ## Bienvenue sur Notre Projet
 
-Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
+Le projet Frontiera sera réalisé en deux versions physique et mobile. 
+Le jeu consiste à conquérir le plus  de territoires  grâce à des défis interactifs. 
 
 ### Contenu du Repository
 

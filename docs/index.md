@@ -20,7 +20,7 @@ Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site 
     </head>
     <body>
         <p>mon nouveau projet !</p>
-        <model-viewer src="Part.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1.4" environment-image="1570644046.jpg" skybox-image="1570644046.jpg" exposure="2" shadow-softness="0.46" auto-rotate>
+        <model-viewer src="Part Studio_frontièra.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1.4" environment-image="1570644046.jpg" skybox-image="1570644046.jpg" exposure="2" shadow-softness="0.46" auto-rotate>
             <div class="progress-bar hide" slot="progress-bar">
                 <div class="update-bar"></div>
             </div>

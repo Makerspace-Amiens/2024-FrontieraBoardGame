@@ -28,7 +28,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 - Écran TFT LCD de 3,5" de diagonale
 - Résolution 320 x 480, compatible couleurs 18 bits (262 000) - notre code n'utilise que 16 bits car il est plus rapide.
 - Interface numérique 8 bits, plus 4 ou 5 lignes de contrôle (12 broches minimum) ou mode SPI avec 4 ou 5 lignes de données/contrôle SPI (4 broches minimum) - sans compter l'écran tactile.
-- -Compatible 5V- ! Utiliser avec une logique 3,3 V ou 5 V telle qu'un Arduino
+- ### Compatible 5V ! Utiliser avec une logique 3,3 V ou 5 V telle qu'un Arduino
 - Régulateur LDO 3,3 V @ 150 mA intégré
 - Rétroéclairage à 6 LED blanches avec amplification de courant constant DC/DC. Vous pouvez atténuer le rétroéclairage par PWM
 - 1x20 en-têtes pour une planche à pain facile

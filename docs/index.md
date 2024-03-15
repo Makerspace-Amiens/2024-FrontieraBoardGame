@@ -15,7 +15,7 @@ Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site 
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
 <!-- <model-viewer> HTML element -->
-    <model-viewer src="images/Part_Studio_frontièra.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" auto-rotate>
+    <model-viewer id="viewer" src="images/Part_Studio_frontièra.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" auto-rotate>
       <button class="Hotspot" slot="hotspot-2" data-position="0.05159944693409435m 0.15000000596046448m -0.049849631121345425m" data-normal="0m 1m 0m" data-visibility-attribute="visible">
           <div class="HotspotAnnotation">Plateau de jeu</div>
       </button>

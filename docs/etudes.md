@@ -9,7 +9,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 
 1. **Microcontrôleur** : la référence à utiliser ESP32-DevKitC Pin Layout.
    - ESP32 : Offre une grande capacité de traitement et de connectivité, adaptée à la gestion des interactions entre les joueurs et le plateau de jeu.
-   ![esp32]()
+   ![esp32](images/esp32-devkitC-v4-pinout.png)
 
 2. **LEDs Neopixels** : 
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoire. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.

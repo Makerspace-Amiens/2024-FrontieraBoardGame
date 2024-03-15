@@ -23,7 +23,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - Cet écran TFT est grand (diagonale de 3,5"), lumineux (rétroéclairage à 6 LED blanches) et coloré ! 480 x 320 pixels avec contrôle individuel des pixels RVB, il a bien plus de résolution qu'un écran noir et blanc 128 x 64, et double notre TFT de 2,8". En prime, cet écran est déjà doté d'un écran tactile résistif, ce qui nous permet de détecter les pressions des doigts n'importe où sur l'écran.
    - Cet écran intègre un contrôleur avec mémoire tampon RAM, de sorte que presque aucun travail n'est effectué par le microcontrôleur. L'affichage peut être utilisé en deux modes : 8 bits ou SPI. Pour le mode 8 bits, nous aurons besoin de 8 lignes de données numériques et de 4 ou 5 lignes de contrôle numériques pour lire et écrire sur l'écran (12 lignes au total). Le mode SPI ne nécessite que 5 broches au total (entrée de données SPI, sortie de données, horloge, sélection et d/c) mais est plus lent que le mode 8 bits. De plus, 4 broches sont requises pour l'écran tactile (2 numériques, 2 analogiques).
 
-   ####Caractéristiques####:
+### Caractéristiques:
 
 - Écran TFT LCD de 3,5" de diagonale
 - Résolution 320 x 480, compatible couleurs 18 bits (262 000) - notre code n'utilise que 16 bits car il est plus rapide.
@@ -35,7 +35,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 - Écran tactile résistif à 4 fils
 - [Fiches techniques, fichiers CAO PCB et objet Fritzing dans le didacticiel](https://learn.adafruit.com/adafruit-3-5-color-320x480-tft-touchscreen-breakout/downloads)
 
-  #####Dimensions#####:
+### Dimensions:
 
 - Écran : 56 mm x 85 mm x 4 mm / 2,2" x 3,4" x 0,2"
 - PCB : 56 mm x 97 mm x 2 mm / 2,2" x 3,8" x 0,1"

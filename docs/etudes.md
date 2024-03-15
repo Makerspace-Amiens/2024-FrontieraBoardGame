@@ -11,6 +11,8 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - ESP32 : Offre une grande capacité de traitement et de connectivité, adaptée à la gestion des interactions entre les joueurs et le plateau de jeu.
    ![esp32](images/esp32-devkitC-v4-pinout.png)
 
+*ESP32-DevKitC V4 avec module ESP32-WROOM-32 soudé*
+
 2. **LEDs Neopixels** : 
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoire. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.
 
@@ -24,6 +26,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - Le MCP2515 est un transceiver CAN couramment utilisé en raison de sa popularité et de sa compatibilité avec de nombreux microcontrôleurs, y compris les cartes ESP32. Il offre une interface SPI pour la communication avec le microcontrôleur et prend en charge les vitesses de communication CAN standard.
    - La principale différence entre le MCP2515 et d'autres transceivers CAN réside dans leur fonctionnalité et leur compatibilité avec différents microcontrôleurs. Certains transceivers peuvent avoir des fonctionnalités supplémentaires ou des spécifications techniques différentes, ce qui peut les rendre plus adaptés à certains projets ou applications spécifiques.
 
+   ![transceiver](images/MCP2515-Parts.jpg)
 
 
 #### Critères de sélection

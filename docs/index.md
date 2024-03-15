@@ -31,7 +31,9 @@ Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site 
     </model-viewer>  
 
 <style>
-  :not(:defined) > * {
+#viewer
+    {
+    :not(:defined) > * {
   display: none;
 }
 
@@ -199,6 +201,7 @@ model-viewer[ar-status="session-started"] > #ar-prompt {
 
 model-viewer > #ar-prompt > img {
   animation: circle 4s linear infinite;
+    }
 }
 </style>
 

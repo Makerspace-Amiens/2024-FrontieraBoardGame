@@ -11,7 +11,7 @@ Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site 
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
 
-        <script src="https://modelviewer.dev/shared/model-viewer-base.js"></script>
+        <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
     
         <model-viewer src="Part.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1.4" environment-image="1570644046.jpg" skybox-image="1570644046.jpg" exposure="2" shadow-softness="0.46" auto-rotate>
             <div class="progress-bar hide" slot="progress-bar">

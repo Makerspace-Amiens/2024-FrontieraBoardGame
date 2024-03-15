@@ -17,11 +17,11 @@ Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site 
     <meta charset="utf-8">
     <meta name="description" content="&lt;model-viewer&gt; template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link type="text/css" href="./styles.css" rel="stylesheet"/>
+    <link type="text/css" href="./images/styles.css" rel="stylesheet"/>
   </head>
   <body>
     <!-- <model-viewer> HTML element -->
-    <model-viewer src="Part_Studio_frontièra.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.png" shadow-intensity="1" auto-rotate>
+    <model-viewer src="images/Part_Studio_frontièra.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.png" shadow-intensity="1" auto-rotate>
       <div class="progress-bar hide" slot="progress-bar">
           <div class="update-bar"></div>
       </div>
@@ -29,10 +29,10 @@ Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site 
           View in your space
       </button>
       <div id="ar-prompt">
-          <img src="ar_hand_prompt.png">
+          <img src="images/ar_hand_prompt.png">
       </div>
     </model-viewer>  
-    <script src="script.js"></script>
+    <script src="images/script.js"></script>
     <!-- Loads <model-viewer> for browsers: -->
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
   </body>

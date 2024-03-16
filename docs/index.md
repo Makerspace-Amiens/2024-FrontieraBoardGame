@@ -16,14 +16,17 @@ Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site 
     
 ## Modèle 3D de la plaforme de jeu
 
-<!-- <model-viewer> HTML element -->
-    <model-viewer id="viewer" 
-    alt="Modèle 3D de la plaforme de jeu" 
-    src="images/modèle/Part_Studio_frontièra.gltf" 
-    ar ar-modes="webxr scene-viewer quick-look" 
-    camera-controls tone-mapping="commerce" 
-    poster="images/modèle/poster.png" 
-    shadow-intensity="1" auto-rotate>
+<html lang="en">
+  <head>
+    <title>&lt;model-viewer&gt; template</title>
+    <meta charset="utf-8">
+    <meta name="description" content="&lt;model-viewer&gt; template">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="text/css" href="./images/modèle/styles.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <!-- <model-viewer> HTML element -->
+    <model-viewer  id="viewer"  src="images/modèle/Part_Studio_frontièra.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="images/modèle/poster.png" shadow-intensity="1" auto-rotate>
       <div class="progress-bar hide" slot="progress-bar">
           <div class="update-bar"></div>
       </div>
@@ -35,6 +38,10 @@ Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site 
       </div>
     </model-viewer>  
     <script src="images/modèle/script.js"></script>
+    <!-- Loads <model-viewer> for browsers: -->
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
+  </body>
+</html>
 
 <style>
     #viewer

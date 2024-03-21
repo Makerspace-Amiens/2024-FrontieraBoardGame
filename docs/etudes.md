@@ -53,8 +53,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 4. **Source d'alimentation** : Adaptateur secteur 5V 2A; Chargeur AC220V 230V à DC5V 2000mA
    - Ce chargeur permettra d'assurer une alimentation continue au système électronique.
 ![chargeur](https://m.media-amazon.com/images/I/51Yq0LE2GjL._AC_SX466_.jpg)
-   - Type de connecteur	Auxiliaire
-   - Composants inclus	chargeur
+
    - Valeur de sortie:	DC5V~2A
    - Puissance maximale en sortie : 10W DC
    - Tension d'entrée	 AC100V-240v

@@ -56,9 +56,9 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - Type de connecteur	Auxiliaire
    - Composants inclus	chargeur
    - Valeur de sortie:	DC5V~2A
-   - Puissance maximale: 10W DC
-   - Tension d'entrée	 AC100V-240v 
-   - Ampérage	2 A
+   - Puissance maximale en sortie : 10W DC
+   - Tension d'entrée	 AC100V-240v
+   
 4. **le transceiver CAN** : la référence à utiliser est le MCP2515
    - C'est un transceiver CAN très populaire et largement compatible avec les cartes ESP32. Il est facile à utiliser et offre de bonnes performances.
    - Le MCP2515 est un transceiver CAN couramment utilisé en raison de sa popularité et de sa compatibilité avec de nombreux microcontrôleurs, y compris les cartes ESP32. Il offre une interface SPI pour la communication avec le microcontrôleur et prend en charge les vitesses de communication CAN standard.

@@ -13,7 +13,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 
 *ESP32-DevKitC V4 avec module ESP32-WROOM-32 soudé*
 
-2. **LEDs Neopixels** : 
+2. **LEDs Neopixels** : la bande de LED adressable WS2812B.
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoire. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.
 ![ledneopixel](https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/cb76939ffe359d39ef0c271e83f76e74.jpg?imageView2/2/w/800/q/70/format/webp)
 

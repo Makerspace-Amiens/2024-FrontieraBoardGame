@@ -17,6 +17,14 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoire. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.
 ![ledneopixel](https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/cb76939ffe359d39ef0c271e83f76e74.jpg?imageView2/2/w/800/q/70/format/webp)
 
+## Caractéristique: flexible individuellement adressable bande couleur, silicone tube étanche.
+- Taille: 1m 60LEDs
+- Couleur:	Noir Pcb Ip67
+- Source d'alimentation:	DC5V Power adapter supply
+- Couleur de la lumière:	RGB
+- Style	Moderne
+- Matériau	FPCB
+
 3. **Écran TFT** : La référence à utiliser est le 3,5" TFT 320 x 480 + carte de dérivation pour écran tactile avec prise MicroSD - HX8357D
    - Pour afficher les informations pertinentes du jeu telles que les instructions, les défis en cours et le décompte des points à la fin de chaque tour.
    ![écrantft](https://cdn-shop.adafruit.com/970x728/2050-06.jpg)

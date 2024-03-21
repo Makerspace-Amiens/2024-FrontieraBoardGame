@@ -17,7 +17,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoire. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.
 ![ledneopixel](https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/cb76939ffe359d39ef0c271e83f76e74.jpg?imageView2/2/w/800/q/70/format/webp)
 
-## Caractéristique: flexible individuellement adressable bande couleur, silicone tube étanche.
+## Caractéristiques: flexible individuellement adressable bande couleur, silicone tube étanche.
 - Taille: 1m 60LEDs
 - Couleur:	Noir Pcb Ip67
 - Source d'alimentation:	DC5V Power adapter supply
@@ -50,9 +50,16 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - PCB : 56 mm x 97 mm x 2 mm / 2,2" x 3,8" x 0,1"
    - Poids : 52g
 
-4. **Batterie et alimentation** :
-   - Une batterie rechargeable avec un module de gestion de l'alimentation pour assurer une alimentation continue et portable du système électronique.
-5. **le transceiver CAN** : la référence à utiliser est le MCP2515
+4. **Source d'alimentation** : Adaptateur secteur 5V 2A; Chargeur AC220V 230V à DC5V 2000mA
+   - Ce chargeur permettra d'assurer une alimentation continue au système électronique.
+![chargeur](https://m.media-amazon.com/images/I/51Yq0LE2GjL._AC_SX466_.jpg)
+   - Type de connecteur	Auxiliaire
+   - Composants inclus	chargeur
+   - Valeur de sortie:	DC5V~2A
+   - Puissance maximale: 10W DC
+   - Tension d'entrée	 AC100V-240v 
+   - Ampérage	2 A
+4. **le transceiver CAN** : la référence à utiliser est le MCP2515
    - C'est un transceiver CAN très populaire et largement compatible avec les cartes ESP32. Il est facile à utiliser et offre de bonnes performances.
    - Le MCP2515 est un transceiver CAN couramment utilisé en raison de sa popularité et de sa compatibilité avec de nombreux microcontrôleurs, y compris les cartes ESP32. Il offre une interface SPI pour la communication avec le microcontrôleur et prend en charge les vitesses de communication CAN standard.
    - La principale différence entre le MCP2515 et d'autres transceivers CAN réside dans leur fonctionnalité et leur compatibilité avec différents microcontrôleurs. Certains transceivers peuvent avoir des fonctionnalités supplémentaires ou des spécifications techniques différentes, ce qui peut les rendre plus adaptés à certains projets ou applications spécifiques.

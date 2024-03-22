@@ -70,7 +70,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 Le choix composants a été effectué en fonction des critères suivants :
 - Capacité à répondre aux exigences spécifiques du jeu "FrontieraBoardgame" en termes de fonctionnalités et d'interactions.
 - Disponibilité commerciale et coût abordable pour respecter les contraintes budgétaires du projet.
-- Facilité d'intégration et de programmation avec le microcontrôleur Arduino Mega.
+- Facilité d'intégration et de programmation avec le microcontrôleur ESP32.
 - Fiabilité et durabilité pour assurer un fonctionnement stable et sans faille pendant les parties de jeu.
 
 

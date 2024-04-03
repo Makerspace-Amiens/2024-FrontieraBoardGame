@@ -18,7 +18,7 @@ Le jeu devra contenir les elements suivants :
 
 ## Menu du jeu
 Le jeu devra proposer un menu permettant de selectionner : 
-* le nombre de joueurs dela partie (entre 2 et 4)
+* le nombre de joueurs de la partie (entre 2 et 4)
 * les informations associées à chaque joueur (couleur, pseudonyme)
 
 ## Plateau

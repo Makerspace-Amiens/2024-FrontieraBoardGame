@@ -5,7 +5,7 @@ title: Objectifs du projet
 ---
 
 ## Objectifs du Projet
-Ce projet vise à créer un jeu de plateau multijoueur. Développée en parallèle de la [version physique](https://github.com/Makerspace-Amiens/2024-FrontieraBoardGame), c'est une application que nous proposons, qui fonctionne sur un seul PC. Nous voulons proposer un jeu intéractif et divertissant.
+Ce projet vise à créer un jeu de plateau multijoueur. Développée en parallèle de la [version mobile](https://github.com/Makerspace-Amiens/2024-FrontieraBoardGame), c'est une application que nous proposons, qui fonctionne sur un seul PC. Nous voulons proposer un jeu intéractif et divertissant.
 
 # Existant
 ## Inspiration du jeu

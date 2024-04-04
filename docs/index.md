@@ -6,7 +6,7 @@ title: Accueil
 
 # Bienvenue sur notre documentation
 
-Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site présentera le fonctionnement de la version physique.  
+Le projet Frontiera sera réalisé en deux versions: physique et mobile. Ce site présentera le fonctionnement de la version physique.  
 
 
 ![Illustration vectorielle](images/Frontiera.jpeg)

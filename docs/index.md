@@ -9,7 +9,7 @@ title: Accueil
 Le projet Frontiera sera réalisé en deux versions physique et mobile. Ce site présentera le fonctionnement de la version physique.  
 
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
+![Illustration vectorielle](images/Frontiera.jpeg)
 
  <!-- Loads <model-viewer> for browsers: -->
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>

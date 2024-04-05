@@ -32,3 +32,11 @@ title: Conception et prototypage
     <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
   </body>
 </html>
+
+ #viewer
+    {
+        margin : auto;
+        width : 500px;
+        height : 500px;
+    }
+</style>

@@ -37,7 +37,7 @@ title: Conception et prototypage
     #viewer
     {
         margin : auto;
-        width : 800px;
-        height : 800px;
+        width : 650px;
+        height : 650px;
     }
 </style>

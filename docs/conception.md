@@ -16,7 +16,7 @@ title: Conception et prototypage
   </head>
   <body>
     <!-- <model-viewer> HTML element -->
-    <model-viewer id="viewer" src="images/Model/Part_Studio_Frontiera.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.png" shadow-intensity="1" auto-rotate camera-target="0m 0m 0m">
+    <model-viewer id="viewer" src="images/Model/Part_Studio_Frontiera.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="images/Model/poster.png" shadow-intensity="1" auto-rotate camera-target="0m 0m 0m">
       <div class="progress-bar hide" slot="progress-bar">
           <div class="update-bar"></div>
       </div>
@@ -37,7 +37,7 @@ title: Conception et prototypage
     #viewer
     {
         margin : auto;
-        width : 500px;
-        height : 500px;
+        width : 800px;
+        height : 800px;
     }
 </style>

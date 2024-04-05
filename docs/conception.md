@@ -5,7 +5,7 @@ title: Conception et prototypage
 ---
 
 # Conception et prototypage
-## Diseigne de la maquette
+## Modèle 3D de la plaforme de jeu
 <html lang="en">
   <head>
     <title>&lt;model-viewer&gt; template</title>

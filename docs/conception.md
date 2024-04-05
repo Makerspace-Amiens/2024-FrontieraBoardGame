@@ -41,3 +41,6 @@ title: Conception et prototypage
         height : 650px;
     }
 </style>
+
+## Support en forme de matrice pour les neopixels
+![test_de_fonctionement](images/prototypage)

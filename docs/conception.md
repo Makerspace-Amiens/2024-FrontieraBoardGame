@@ -33,7 +33,8 @@ title: Conception et prototypage
   </body>
 </html>
 
- #viewer
+ <style>
+    #viewer
     {
         margin : auto;
         width : 500px;

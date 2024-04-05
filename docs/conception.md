@@ -16,7 +16,7 @@ title: Conception et prototypage
   </head>
   <body>
     <!-- <model-viewer> HTML element -->
-    <model-viewer id="viewer" src="images/Model/Frontiera.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.png" shadow-intensity="1" auto-rotate camera-target="0m 0m 0m">
+    <model-viewer id="viewer" src="images/Model/Part_Studio_Frontiera.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.png" shadow-intensity="1" auto-rotate camera-target="0m 0m 0m">
       <div class="progress-bar hide" slot="progress-bar">
           <div class="update-bar"></div>
       </div>
@@ -24,7 +24,7 @@ title: Conception et prototypage
           View in your space
       </button>
       <div id="ar-prompt">
-          <img src="images/Model/ar_hand_prompt.png">
+          <img src="omages/Model/ar_hand_prompt.png">
       </div>
     </model-viewer>  
     <script src="images/Model/script.js"></script>

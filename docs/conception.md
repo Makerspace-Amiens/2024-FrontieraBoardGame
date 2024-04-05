@@ -5,7 +5,7 @@ title: Conception et prototypage
 ---
 
 # Conception et prototypage
-## 1. **Conception de la maquette**
+## I. **Conception de la maquette**
 ### Modèle 3D de la plaforme de jeu
 <html lang="en">
   <head>
@@ -78,5 +78,6 @@ title: Conception et prototypage
         height : 650px;
     }
 </style>
+## II. Pototypage
 
 ![test_de_fonctionement](images/prototypage)

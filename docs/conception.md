@@ -82,4 +82,4 @@ title: Conception et prototypage
 ## II. Pototypage
 ### A. Test de communication entre les LEDs neopixels et le µPC ESP32
 
-![test_de_fonctionement](images/prototypage)
+![test_de_fonctionement](images/images_prototypage/support_en_forme_de_matrice.jpg)

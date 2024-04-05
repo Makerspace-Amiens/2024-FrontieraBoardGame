@@ -5,7 +5,8 @@ title: Conception et prototypage
 ---
 
 # Conception et prototypage
-## Modèle 3D de la plaforme de jeu
+## 1. **Conception de la maquette**
+### Modèle 3D de la plaforme de jeu
 <html lang="en">
   <head>
     <title>&lt;model-viewer&gt; template</title>
@@ -42,7 +43,7 @@ title: Conception et prototypage
     }
 </style>
 
-## Support en forme de matrice pour les neopixels
+### Support en forme de matrice pour les neopixels
 <html lang="en">
   <head>
     <title>&lt;model-viewer&gt; template</title>

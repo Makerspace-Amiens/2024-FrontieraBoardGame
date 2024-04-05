@@ -24,7 +24,7 @@ title: Conception et prototypage
           View in your space
       </button>
       <div id="ar-prompt">
-          <img src="omages/Model/ar_hand_prompt.png">
+          <img src="images/Model/ar_hand_prompt.png">
       </div>
     </model-viewer>  
     <script src="images/Model/script.js"></script>

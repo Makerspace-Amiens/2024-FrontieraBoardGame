@@ -30,34 +30,29 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="../shared-assets/images/benjamin.jpg" alt="Photo Benjamin" class="rounded-image">
-        <p class="image-caption">Benjamin BONHOMME</p>
+        <img src="../shared-assets/images/Fall.jpg" alt="Photo Benjamin" class="rounded-image">
+        <p class="image-caption">FALL Allioune</p>
     </div>
     <div>
-        <img src="../shared-assets/images/jules.jpeg" alt="Photo Jules" class="rounded-image">
-        <p class="image-caption">Jules MARGOLLÉ</p>
+        <img src="../shared-assets/images/Daryl.jpeg" alt="Photo Jules" class="rounded-image">
+        <p class="image-caption">FOTSING Daryl</p>
     </div>
     <div>
-        <img src="../shared-assets/images/alexis.jpg" alt="Photo Alexis" class="rounded-image">
-        <p class="image-caption">Alexis PINOTEAUX</p>
-    </div>
-    <div>
-        <img src="../shared-assets/images/yohann.jpg" alt="Photo Yohann" class="rounded-image">
-        <p class="image-caption">Yohann VERGNIOLE</p>
+        <img src="../shared-assets/images/Yanis.jpg" alt="Photo Alexis" class="rounded-image">
+        <p class="image-caption">MIHINDOU MIHINDOU Yanis</p>
     </div>
 </div>
-Nous sommes tous les quatre étudiants à UniLaSalle Amiens en 3e année d'études d'ingénierie.
-Durant cette année, nous devons réaliser un projet de groupe, le nôtre sera la conception d'une mallette de rangement pour un Cobot et ses accessoires ainsi qu'à la réalisation de programme pédagogique de son fonctionnement.
 
-|| Programmation | Modélisation | Bricolage |
+Nous sommes tous les trois étudiants à UniLaSalle Amiens en 3e année d'études d'ingénierie.
+Durant cette année, nous devons réaliser un projet de groupe, le nôtre sera la conception d'un jeu de société...
+
+|/| Programmation | Modélisation | Bricolage |
 |:-:|:--:|:---:|:--:|
-| Benjamin BONHOMME | 3 | 5 | 3 |
-| Jules MARGOLLÉ | 5 | 5 | 3 |
-| Alexis PINOTEAUX | 5 | 3 | 4 |
-| Yohann VERGNIOLE | 5 | 3 | 4 |
+| FALL Allioune | 3 | 5 | 3 |
+| FOTSING Daryl | 5 | 5 | 3 |
+| MIHINDOU MIHINDOU Yanis | 5 | 3 | 4 |
 
 ### Attribution des rôles
-- Benjamin est en charge de la modélisation 3D des accessoires de la mallette
-- Jules est en charge de la modélisation 3D de la mallette
-- Alexis est en charge de la gestion des matériaux et des commandes 
-- Yohann est en charge de la programmation du Cobot
+- Daryl est en charge de la modélisation 3D 
+- Fall est en charge de la gestion des matériaux
+- Yanis est en charge de la programmation

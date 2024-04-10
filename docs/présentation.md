@@ -46,10 +46,10 @@ img {
 Nous sommes tous les trois étudiants à UniLaSalle Amiens en 3e année d'études d'ingénierie.
 Durant cette année, nous devons réaliser un projet de groupe, le nôtre sera la conception d'un jeu de société...
 
-|/| Programmation | Modélisation 3D | Bricolage & Assemblage |Circuit éléctronique|
+|/| Programmation | Modélisation 3D | Assemblage |Circuit éléctronique|
 |:-:|:--:|:---:|:--:|:---:|
-| FALL Allioune | 5 | 3| 4 |4|
-| FOTSING Daryl | 4 | 5 | 4|4|
+| FALL Allioune | 4 | 3| 4 |4|
+| FOTSING Daryl | 3 | 5 | 4|4|
 | MIHINDOU MIHINDOU Yanis | 5 | 3 | 4 |4|
 
 ### Attribution des rôles

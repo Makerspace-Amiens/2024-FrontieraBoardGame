@@ -30,15 +30,15 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="../shared-assets/images/Fall.jpg" alt="Photo FALL" class="rounded-image">
+        <img src="../shared-assets/images/Team/Fall.jpg" alt="Photo FALL" class="rounded-image">
         <p class="image-caption">FALL Allioune</p>
     </div>
     <div>
-        <img src="../shared-assets/images/Daryl.jpeg" alt="Photo Daryl" class="rounded-image">
+        <img src="../shared-assets/images/Team/Daryl.jpg" alt="Photo Daryl" class="rounded-image">
         <p class="image-caption">FOTSING Daryl</p>
     </div>
     <div>
-        <img src="../shared-assets/images/Yanis.jpg" alt="Photo Yanis" class="rounded-image">
+        <img src="../shared-assets/images/Team/Yanis.jpg" alt="Photo Yanis" class="rounded-image">
         <p class="image-caption">MIHINDOU MIHINDOU Yanis</p>
     </div>
 </div>

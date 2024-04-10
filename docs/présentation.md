@@ -48,11 +48,11 @@ Durant cette année, nous devons réaliser un projet de groupe, le nôtre sera l
 
 |/| Programmation | Modélisation 3D | Assemblage |Circuit éléctronique|
 |:-:|:--:|:---:|:--:|:---:|
-| FALL Allioune | 4 | 3| 4 |4|
-| FOTSING Daryl | 3 | 5 | 4|4|
-| MIHINDOU MIHINDOU Yanis | 5 | 3 | 4 |4|
+| **FALL Allioune** | 4 | 3| 4 |4|
+| **FOTSING Daryl** | 3 | 5 | 4|4|
+| **MIHINDOU MIHINDOU Yanis** | 5 | 3 | 4 |4|
 
 ### Attribution des rôles
-- Daryl est en charge de la modélisation 3D 
-- Fall est en charge de la gestion des matériaux
-- Yanis est en charge de la programmation
+- *Daryl* est en charge de la modélisation 3D 
+- *Fall* est en charge de la gestion des matériaux
+- *Yanis* est en charge de la programmation

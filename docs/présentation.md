@@ -31,15 +31,15 @@ img {
 <div class="grid-container">
     <div>
         <img src="images/Team/Fall.jpg" alt="Photo FALL" class="rounded-image">
-        <p class="image-caption">FALL Allioune</p>
+        <p class="image-caption">Allioune FALL</p>
     </div>
     <div>
         <img src="images/Team/Daryl.jpg" alt="Photo Daryl" class="rounded-image">
-        <p class="image-caption">FOTSING Daryl</p>
+        <p class="image-caption">Daryl FOTSING</p>
     </div>
     <div>
         <img src="images/Team/Yanis.jpg" alt="Photo Yanis" class="rounded-image">
-        <p class="image-caption">MIHINDOU MIHINDOU Yanis</p>
+        <p class="image-caption">Yanis MIHINDOU MIHINDOU</p>
     </div>
 </div>
 

@@ -25,7 +25,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 - Style	Moderne
 - Matériau	FPCB
 
-3. **Écran TFT** : La référence à utiliser est le 3,5" TFT 320 x 480 + carte de dérivation pour écran tactile avec prise MicroSD - HX8357D
+3. **Écran TFT** : La référence à utiliser est le ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V
    - Pour afficher les informations pertinentes du jeu telles que les instructions, les défis en cours et le décompte des points à la fin de chaque tour.
    ![écrantft](https://cdn-shop.adafruit.com/970x728/2050-06.jpg)
 

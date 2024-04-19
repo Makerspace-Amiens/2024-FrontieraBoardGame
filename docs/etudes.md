@@ -66,6 +66,11 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 -  Type : douille de 5,5 mm x 2,5 mm
 - Contenu de l'emballage : 10 x prises DC
 - Couleur principale : ton argent, noir ; Taille (broche non incluse): 14 x 11 x 9 mm / 0,55 pouce x 0,43 pouce x 0,35 pouce (L * W * H)
+6. **Les resistances**
+  - Une resistance de 220 Ohms
+  - 7 resistances de 1K Ohms
+7.  **Le condansateur**
+  - Un condansateur de 2200µF
 
 
 #### Critères de sélection

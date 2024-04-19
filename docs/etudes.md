@@ -15,7 +15,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 
 2. **LEDs Neopixels** : la bande de LED adressable WS2812B.
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoires. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.
-![ledneopixel]([https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/cb76939ffe359d39ef0c271e83f76e74.jpg?imageView2/2/w/800/q/70/format/webp](https://projects.arduinocontent.cc/cover-images/c077a452-adf5-495e-a061-dea0a3bbbaab.blob))
+![ledneopixel](https://projects.arduinocontent.cc/cover-images/c077a452-adf5-495e-a061-dea0a3bbbaab.blob)
 
 ## Caractéristiques: flexible individuellement adressable bande couleur, silicone tube étanche.
 - Taille: 1m 60LEDs
@@ -27,8 +27,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 
 3. **Écran TFT** : La référence à utiliser est le ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V
    - Pour afficher les informations pertinentes du jeu telles que les instructions, les défis en cours et le décompte des points à la fin de chaque tour.
-   ![écrantft](https://cdn-shop.adafruit.com/970x728/2050-06.jpg)
-
+   ![écrantft](https://www.pjrc.com/store/display_ili9341_touch.jpg)
    - Cet écran TFT est grand (diagonale de 3,5"), lumineux (rétroéclairage à 6 LED blanches) et coloré ! 480 x 320 pixels avec contrôle individuel des pixels RVB, il a bien plus de résolution qu'un écran noir et blanc 128 x 64, et double notre TFT de 2,8". En prime, cet écran est déjà doté d'un écran tactile résistif, ce qui nous permet de détecter les pressions des doigts n'importe où sur l'écran.
    - Cet écran intègre un contrôleur avec mémoire tampon RAM, de sorte que presque aucun travail n'est effectué par le microcontrôleur. L'affichage peut être utilisé en deux modes : 8 bits ou SPI. Pour le mode 8 bits, nous aurons besoin de 8 lignes de données numériques et de 4 ou 5 lignes de contrôle numériques pour lire et écrire sur l'écran (12 lignes au total). Le mode SPI ne nécessite que 5 broches au total (entrée de données SPI, sortie de données, horloge, sélection et d/c) mais est plus lent que le mode 8 bits. De plus, 4 broches sont requises pour l'écran tactile (2 numériques, 2 analogiques).
 

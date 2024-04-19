@@ -57,7 +57,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - Puissance maximale en sortie : 10W DC
    - Tension d'entrée	 AC100V-240v
 4. **Broches femelle montag sur carte**
-   ![Broche](images/broches_femelle_montag_sur_carte.jpg)
+   ![Broche](images/broches_femelle_montag_sur_carte.jpeg)
 
 
 #### Critères de sélection

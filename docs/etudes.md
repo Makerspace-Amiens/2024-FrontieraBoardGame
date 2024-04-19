@@ -15,7 +15,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 
 2. **LEDs Neopixels** : la bande de LED adressable WS2812B.
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoires. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.
-![ledneopixel](https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/cb76939ffe359d39ef0c271e83f76e74.jpg?imageView2/2/w/800/q/70/format/webp)
+![ledneopixel]([https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/cb76939ffe359d39ef0c271e83f76e74.jpg?imageView2/2/w/800/q/70/format/webp](https://projects.arduinocontent.cc/cover-images/c077a452-adf5-495e-a061-dea0a3bbbaab.blob))
 
 ## Caractéristiques: flexible individuellement adressable bande couleur, silicone tube étanche.
 - Taille: 1m 60LEDs

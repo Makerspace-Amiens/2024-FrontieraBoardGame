@@ -60,6 +60,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 5. **Broche femelle montage sur carte**
 
    ![Broche](https://tse2.mm.bing.net/th?id=OIP.JVKWCJpfVKyDZ6s9pE3KqgHaGK&pid=Api&P=0&h=180)
+   
 - Matériau : plastique, métal ; Type : douille de 5,5 mm x 2,5 mm
 - poids net : 14 g
 -  Diamètre du trou : 6,3 mm

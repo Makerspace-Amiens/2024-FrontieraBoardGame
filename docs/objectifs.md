@@ -42,15 +42,14 @@ Le jeu devra proposer un menu permettant de selectionner :
 
 Au tout début du jeu, il faudra définir le nombre de cycle entre 20 et 30 cycles. À la fin du dernier cycle le joueur ayant le nombre de cases le plus élevé aura gagné le jeu ou si au cours du jeu trois des quatre joueurs perdent toutes leurs cases et le jeu s’arrête.  
 
-Chaque cycle se déroule en deux phases. 
+Chaque cycle se déroule en deux phases :
 
 * **Phase 1 :** la sélection des cases
 
-Chaque case a un identifiant obtenu par une combinaison de lettres de A à F et de chiffre allant de 1 à 7 par exemple A1, A2, B1, B2, C1… 
-
+Chaque case a un identifiant obtenu par une combinaison de lettres de A à F et de chiffre allant de 1 à 7 par exemple A1, A2, B1, B2, C1 … 
 Lors du premier cycle du jeu, chacun joueur à l'aide d'un dé qu’il devra lancer afin d’obtenir un nombre au hasard compris entre 1 et 6 qui constituera le nombre de case du territoire de base de son jeu. Chaque joueur devra sélectionner le nombre de cases sur le plateau obtenues au lancer de dé. 
 
-* **Phase 2 :** le duel 
+* **Phase 2 :** la compétition 
 
 ### Phase 1 : 
 
@@ -65,8 +64,6 @@ Lors du premier cycle du jeu, chacun joueur à l'aide d'un dé qu’il devra lan
  Afin que chaque joueur puisse remporter des cases pour élargir son territoire chaque joueur devra remporter un défi qui sont des questions de culture générale, des mini-jeux ou autre. 
 
 Après que chaque joueur a sélectionné le nombre de cases qu’il voudrait remporter, un autre joueur va lui lancer un défi auquel il devra répondre, dans le cas où il remporte le défi les cases qu’il a sélectionnées au début du tour va se colorier en sa couleur distinctive en supplément du gain correspondant au nombre de cases sélectionnés mais si le défi est perdu ce joueur en subira les conséquences en perdant une à quatre de ces cases. 
-
- 
 
 ### Phase 2 : 
 

@@ -28,14 +28,15 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 3. **Écran TFT** : La référence à utiliser est le ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V
    - Pour afficher les informations pertinentes du jeu telles que les instructions, les défis en cours et le décompte des points à la fin de chaque tour.
    ![écrantft](https://www.pjrc.com/store/display_ili9341_touch.jpg)
-   - Cet écran TFT est grand (diagonale de 3,5"), lumineux (rétroéclairage à 6 LED blanches) et coloré ! 480 x 320 pixels avec contrôle individuel des pixels RVB, il a bien plus de résolution qu'un écran noir et blanc 128 x 64, et double notre TFT de 2,8". En prime, cet écran est déjà doté d'un écran tactile résistif, ce qui nous permet de détecter les pressions des doigts n'importe où sur l'écran.
+   - Cet écran TFT a une diagonale de 2,8", lumineux (rétroéclairage à 6 LED blanches) et coloré ! 320x240 pixels avec contrôle individuel des pixels RVB, il a bien plus de résolution qu'un écran noir et blanc 128 x 64. En prime, cet écran est déjà doté d'un écran tactile résistif, ce qui nous permet de détecter les pressions des doigts n'importe où sur l'écran.
    - Cet écran intègre un contrôleur avec mémoire tampon RAM, de sorte que presque aucun travail n'est effectué par le microcontrôleur. L'affichage peut être utilisé en deux modes : 8 bits ou SPI. Pour le mode 8 bits, nous aurons besoin de 8 lignes de données numériques et de 4 ou 5 lignes de contrôle numériques pour lire et écrire sur l'écran (12 lignes au total). Le mode SPI ne nécessite que 5 broches au total (entrée de données SPI, sortie de données, horloge, sélection et d/c) mais est plus lent que le mode 8 bits. De plus, 4 broches sont requises pour l'écran tactile (2 numériques, 2 analogiques).
 
 ### Caractéristiques:
 
-   - Écran TFT LCD de 3,5" de diagonale
-   - Résolution 320 x 480, compatible couleurs 18 bits (262 000) - notre code n'utilise que 16 bits car il est plus rapide.
-   - Interface numérique 8 bits, plus 4 ou 5 lignes de contrôle (12 broches minimum) ou mode SPI avec 4 ou 5 lignes de données/contrôle SPI (4 broches minimum) - sans compter l'écran tactile.
+   - Écran TFT LCD de 2,8" de diagonale
+   - Résolution 320x240, compatible couleurs 18 bits (262 000)
+   -  Prend en charge les polices haute résolution de grande taille.
+   - Interface numérique 8 bits, plus 4 ou 5 lignes de contrôle (12 broches minimum) ou mode SPI avec 4 ou 5 lignes de données/contrôle SPI (4 broches minimum)
    - ### Compatible 5V ! Utiliser avec une logique 3,3 V ou 5 V telle qu'un Arduino
    - Régulateur LDO 3,3 V @ 150 mA intégré
    - Rétroéclairage à 6 LED blanches avec amplification de courant constant DC/DC. Vous pouvez atténuer le rétroéclairage par PWM

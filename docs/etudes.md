@@ -60,14 +60,14 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 5. **Broche femelle montage sur carte**
 
 ![Broche](https://tse2.mm.bing.net/th?id=OIP.JVKWCJpfVKyDZ6s9pE3KqgHaGK&pid=Api&P=0&h=180)
-   
-- Matériau : plastique, métal ; Type : douille de 5,5 mm x 2,5 mm
-- poids net : 14 g
--  Diamètre du trou : 6,3 mm
--  Broche : 3 broches
--  Type : douille de 5,5 mm x 2,5 mm
-- Contenu de l'emballage : 10 x prises DC
-- Couleur principale : ton argent, noir ; Taille (broche non incluse): 14 x 11 x 9 mm / 0,55 pouce x 0,43 pouce x 0,35 pouce (L * W * H)
+
+* Matériau : plastique, métal ; Type : douille de 5,5 mm x 2,5 mm
+* poids net : 14 g
+* Diamètre du trou : 6,3 mm
+* Broche : 3 broches
+* Type : douille de 5,5 mm x 2,5 mm
+* Contenu de l'emballage : 10 x prises DC
+* Couleur principale : ton argent, noir ; Taille (broche non incluse): 14 x 11 x 9 mm / 0,55 pouce x 0,43 pouce x 0,35 pouce (L * W * H)
 6. **Les resistances**
   - Une resistance de 220 Ohms
   - 7 resistances de 1K Ohms

@@ -59,7 +59,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
    - Tension d'entrée	 AC100V-240v
 5. **Broche femelle montage sur carte**
 
-   ![Broche](https://tse2.mm.bing.net/th?id=OIP.JVKWCJpfVKyDZ6s9pE3KqgHaGK&pid=Api&P=0&h=180)
+![Broche](https://tse2.mm.bing.net/th?id=OIP.JVKWCJpfVKyDZ6s9pE3KqgHaGK&pid=Api&P=0&h=180)
    
 - Matériau : plastique, métal ; Type : douille de 5,5 mm x 2,5 mm
 - poids net : 14 g
@@ -75,7 +75,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
   - Un condansateur de 2200µF
 
 
-#### Critères de sélection
+### Critères de sélection
 Le choix composants a été effectué en fonction des critères suivants :
 - Capacité à répondre aux exigences spécifiques du jeu "FrontieraBoardgame" en termes de fonctionnalités et d'interactions.
 - Disponibilité commerciale et coût abordable pour respecter les contraintes budgétaires du projet.

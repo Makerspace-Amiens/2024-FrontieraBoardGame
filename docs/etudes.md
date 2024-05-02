@@ -13,17 +13,34 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 
 *ESP32-DevKitC V4 avec module ESP32-WROOM-32 soudé*
 
-2. **LEDs Neopixels** : la bande de LED adressable WS2812B.
+2. **LEDs Neopixels** : Ruban RGB 60 leds adressables 2529.
    - Utilisées pour représenter les couleurs des joueurs sur les cases territoires. Les LEDs Neopixels offrent une gamme de couleurs suffisamment large pour une identification claire des territoires occupés par chaque joueur.
 ![ledneopixel](images/led.PNG)
 
+#### Présentation et fonctionnalités :
+
+Ruban flexible à LEDs RGB d'un mètre équipé de 60 LEDs SK6812 (compatible avec WS2812B). Ces 60 LEDs sont raccordées en série et communiquent avec un microcontrôleur type Arduino ou compatible via une sortie série 1 broche.
+
+Chaque LED possède un pilote intégré qui vous permet de contrôler la couleur et la luminosité indépendamment des autres LEDs.
+
+La couleur et la luminosité du SK6812 sont indépendantes de sa tension d'alimentation : les chutes de tension causées par la résistance sur les longues connexions sont moins susceptibles d'avoir un effet visible.
+
+Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les bandes LED basées sur la WS2812B.
 ## Caractéristiques: flexible individuellement adressable bande couleur, silicone tube étanche.
 - Taille: 1m 60LEDs
-- Couleur:	Noir Pcb Ip67
 - Source d'alimentation:	DC5V Power adapter supply
 - Couleur de la lumière:	RGB
 - Style	Moderne
 - Matériau	FPCB
+- Alimentation : 5 Vcc
+- Consommation : 40 mA par led (3 couleurs au maxi)
+- Nombre de LEDs : 60
+- LED + CI : SK6812
+- Longueur : 1 mètre
+- Largeur : 12 mm
+- Couleur du ruban : noire
+- Norme IP : IP65
+- Poids : 45 g
 
 3. **Écran TFT** : La référence à utiliser est le ILI9341 controller, SPI TFT LCD Display, 9-pin breakout PCB, 4-pin SD card interface, 5V/3.3V
    - Pour afficher les informations pertinentes du jeu telles que les instructions, les défis en cours et le décompte des points à la fin de chaque tour.

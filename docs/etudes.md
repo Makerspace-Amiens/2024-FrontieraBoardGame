@@ -86,11 +86,12 @@ Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les ban
 * Couleur principale : ton argent, noir ; Taille (broche non incluse): 14 x 11 x 9 mm / 0,55 pouce x 0,43 pouce x 0,35 pouce (L * W * H)
 
 6. **Un interrupteur**
-![interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.htm#)
-![interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.htm#)
+![interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.html)
+![interrupteurs](https://www.gotronic.fr/art-interrupteur-c6053r-27915.html)
 
-[Détail de l'interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.htm)
-8. **Les resistances**
+[Détail de l'interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.html)
+
+7. **Les resistances**
   - Une resistance de 220 Ohms
   - 7 resistances de 1K Ohms
   

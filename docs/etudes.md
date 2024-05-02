@@ -86,8 +86,9 @@ Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les ban
 * Couleur principale : ton argent, noir ; Taille (broche non incluse): 14 x 11 x 9 mm / 0,55 pouce x 0,43 pouce x 0,35 pouce (L * W * H)
 
 6. **Un interrupteur**
-![interrupteur](images/interrupteur.PNG)
-![interrupteurs](images/dimenssion_interrupteur.png)
+
+![interrupteur](images/interrupteur.jpg)
+![interrupteurs](images/dimenssion_interrupteur.PNG)
 
 [Détail de l'interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.html)
 

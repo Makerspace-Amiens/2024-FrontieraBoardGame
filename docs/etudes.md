@@ -71,6 +71,7 @@ En tenant compte des exigences du jeu "FrontieraBoardGame", les composants élé
 6. **Les resistances**
   - Une resistance de 220 Ohms
   - 7 resistances de 1K Ohms
+  
 7.  **Le condansateur**
   - Un condansateur de 2200µF
 

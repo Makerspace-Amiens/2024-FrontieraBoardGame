@@ -22,8 +22,7 @@ Le jeu devra proposer un menu permettant de selectionner :
 * les informations associées à chaque joueur (couleur, pseudonyme)
 
 ## Plateau
-* Chronomètre de la partie (durée à renseigner)
-* Affichage du plateau et des cases
+* Délimiter le jeu dans le temps en indiquant le nombre de cycle entre 20 et 30 cycles.
 * Etat des cases (couleurs)
 * Choix entre defi et duel, le jeu devra determiner si le choix est possible ou non et agire en conséquence
 * Possibilité de choisir les cases convoitées (le jeu propose les différentes possibilités)

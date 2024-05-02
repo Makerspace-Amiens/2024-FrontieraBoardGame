@@ -84,11 +84,17 @@ Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les ban
 * Type : douille de 5,5 mm x 2,5 mm
 * Contenu de l'emballage : 10 x prises DC
 * Couleur principale : ton argent, noir ; Taille (broche non incluse): 14 x 11 x 9 mm / 0,55 pouce x 0,43 pouce x 0,35 pouce (L * W * H)
-6. **Les resistances**
+
+6. **Un interrupteur**
+![interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.htm#)
+![interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.htm#)
+
+[Détail de l'interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.htm)
+8. **Les resistances**
   - Une resistance de 220 Ohms
   - 7 resistances de 1K Ohms
   
-7.  **Le condansateur**
+8.  **Le condansateur**
   - Un condansateur de 2200µF
 
 

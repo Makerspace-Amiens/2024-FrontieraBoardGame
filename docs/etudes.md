@@ -90,7 +90,7 @@ Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les ban
 ![interrupteur](images/interrupteur.jpg)
 ![interrupteurs](images/dimenssion_interrupteur.PNG)
 
-[Détail de l'interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.html)
+[Détail de l'interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.htm)
 
 7. **Les resistances**
   - Une resistance de 220 Ohms

@@ -32,7 +32,6 @@ Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les ban
 - Couleur de la lumière:	RGB
 - Style	Moderne
 - Matériau	FPCB
-- Alimentation : 5 Vcc
 - Consommation : 40 mA par led (3 couleurs au maxi)
 - Nombre de LEDs : 60
 - LED + CI : SK6812

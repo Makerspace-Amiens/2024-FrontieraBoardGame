@@ -67,7 +67,7 @@ Celle-ci sera composée de trois plaques de bois jointes entre elles en fonction
 ![Plaque_intermedière](images/les_faces/dimenssion_plaque2.PNG)
 ![Plaque_intermedière](images/les_faces/plaque2.PNG)
 #### 1.4.3 plaque inférieur
-![Plaque_inférieur(images/les_faces/dimenssion_plaque3.PNG)
+![Plaque inférieur](images/les_faces/dimenssion_plaque3.PNG)
 ![Plaque_inférieur](images/les_faces/plaque3.PNG)
 
 

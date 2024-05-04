@@ -47,7 +47,7 @@ Le plateau final devra avoir la forme ci-dessous avec un base de 200*200 mm, une
 Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3D ne sera pas utilisée pour l'ensemble de la maquette. Seules les faces supérieures et inférieures seront imprimées en 3D pour une épaisseur de 3 mm, ainsi que des petites pièces permettant de joindre chaque face entre elles pour obtenir la maquette finale. Les faces lattérales seront réalisées à partir de plaques de bois d'une épaisseur de 3 mm.
 
 #### 1. Les faces lattérals
-Il sera nécessaire de découper au laser toutes les faces latérales, en les perforant de trous de 3 mm de diamètre afin de faciliter la visse. 
+Toutes les faces latérales en plaque de bois devront être découpées au laser, avec des trous de 3 mm de diamètre pour faciliter la visse.
 ![les_faces_lattérals](images/les_faces/lesfaces.PNG)
 #### 1.1 La faces de droite
 ![La_faces_de_droite](images/les_faces/dimenssion_droite.PNG)

@@ -7,7 +7,7 @@ title: Conception et prototypage
 # Conception et prototypage
 ## I. **Conception de la maquette**
 ### Modèle 3D de la plaforme de jeu 
-Le plateau final devra avoir la forme ci-dessous avec un base de 200*200 mm, une face de dessus de 160*200 mm pour une hauteur de 120 mm.  
+Le plateau final devra avoir la forme ci-dessous avec un base de 200x200 mm, une face de dessus de 160x200 mm pour une hauteur de 120 mm.  
 <html lang="en">
   <head>
     <title>&lt;model-viewer&gt; template</title>

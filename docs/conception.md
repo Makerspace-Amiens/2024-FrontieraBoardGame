@@ -50,7 +50,8 @@ Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3
 Il sera nécessaire de découper au laser toutes les faces latérales, en les perforant de trous de 3 mm de diamètre afin de faciliter la visse. 
 ![les_faces_lattérals](images/les_faces/lesfaces.PNG)
 1.1 La faces de droite
-   
+   ![La_faces_de_droite](images/les_faces/dimenssion_droite.PNG)
+    ![La_faces_de_droite](images/les_faces/droite.PNG)
 1.2 La faces de gauche
 1.3 La face arrière
 1.4 La face avant

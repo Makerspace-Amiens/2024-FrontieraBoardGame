@@ -47,6 +47,16 @@ Le plateau final devra avoir la forme ci-dessous avec un base de 200*200 mm, une
 Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3D ne sera pas utilisée pour l'ensemble de la maquette. Seules les faces supérieures et inférieures seront imprimées en 3D pour une épaisseur de 3 mm, ainsi que des petites pièces permettant de joindre chaque face entre elles pour obtenir la maquette finale. Les faces lattérales seront réalisées à partir de plaques de bois d'une épaisseur de 3 mm.
 
 1. Les faces lattérals
+Il sera nécessaire de découper au laser toutes les faces latérales, en les perforant de trous de 3 mm de diamètre afin de faciliter la visse. 
+![les_faces_lattérals](images/les_faces/lesfaces.PNG)
+1.1 La faces de droite
+   
+1.2 La faces de gauche
+1.3 La face arrière
+1.4 La face avant
+1.4.1 Supérieur
+1.4.2 intermedière
+1.4.3 Inférieur
 
 
 ### Support en forme de matrice pour les neopixels

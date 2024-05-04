@@ -6,7 +6,8 @@ title: Conception et prototypage
 
 # Conception et prototypage
 ## I. **Conception de la maquette**
-### Modèle 3D de la plaforme de jeu
+### Modèle 3D de la plaforme de jeu 
+Le plateau final devra avoir la forme ci-dessous avec un base de 200*200 mm, une face de dessus de 160*200 mm pour une hauteur de 120 mm.  
 <html lang="en">
   <head>
     <title>&lt;model-viewer&gt; template</title>
@@ -42,6 +43,11 @@ title: Conception et prototypage
         height : 650px;
     }
 </style>
+#### Dimenssionement du plateau
+Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3D ne sera pas utilisée pour l'ensemble de la maquette. Seules les faces supérieures et inférieures seront imprimées en 3D pour une épaisseur de 3 mm, ainsi que des petites pièces permettant de joindre chaque face entre elles pour obtenir la maquette finale. Les faces lattérales seront réalisées à partir de plaques de bois d'une épaisseur de 3 mm.
+
+1. Les faces lattérals
+
 
 ### Support en forme de matrice pour les neopixels
 <html lang="en">

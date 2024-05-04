@@ -57,9 +57,10 @@ Il sera nécessaire de découper au laser toutes les faces latérales, en les pe
 ![La_faces_de_gauche](images/les_faces/gauche.PNG)
 #### 1.3 La face arrière
 #### 1.4 La face avant
-#### 1.4.1 Supérieur
-#### 1.4.2 intermedière
-#### 1.4.3 Inférieur
+Celle-ci sera composée de trois plaques de bois jointes entre elles en fonction de la hauteur de la maquette, avec une inclinaison de 157,034° par rapport aux deux autres.
+#### 1.4.1 plaque supérieur
+#### 1.4.2 plaque intermedière
+#### 1.4.3 plaque inférieur
 
 
 ### Support en forme de matrice pour les neopixels

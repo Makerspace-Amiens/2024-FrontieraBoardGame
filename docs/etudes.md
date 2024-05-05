@@ -99,6 +99,10 @@ Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les ban
 8.  **Le condansateur**
   - Un condansateur de 2200µF
 
+9. **Feuille PVC transparente**
+- Dimenssion :50 x 70 cm - 0,5 mm
+Cette feuille nous permettra de distinguer les différentes couleurs produites par les LEDs neopixels de l'extérieur, tout en permettant de les séparer.
+![feuille_transparente](images/feuille.avif)
 
 ### Critères de sélection
 Le choix composants a été effectué en fonction des critères suivants :

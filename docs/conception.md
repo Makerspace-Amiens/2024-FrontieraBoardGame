@@ -74,8 +74,8 @@ img {
 }
 
 .square-image {
-    width: 1000px; /* Taille des images */
-    height: auto;
+    width: 2000px; /* Taille des images */
+    height: 1000px;
 }
 
 .image-caption {

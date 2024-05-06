@@ -60,15 +60,35 @@ Toutes les faces latérales en plaque de bois devront être découpées au laser
 ![La face arrière](images/les_faces/arrière.PNG)
 #### 1.4 La face avant
 Celle-ci sera composée de trois plaques de bois jointes entre elles en fonction de la hauteur de la maquette, avec une inclinaison de 157,034° par rapport aux deux autres.
-#### 1.4.1 plaque supérieur
+#### 1.4.1 La plaque supérieur
 ![Plaque_supérieur](images/les_faces/dimenssion_plaque1.PNG)
 ![Plaque_supérieur](images/les_faces/plaque1.PNG)
-#### 1.4.2 plaque intermedière
+#### 1.4.2 la plaque intermédiaire
 ![Plaque_intermedière](images/les_faces/dimenssion_plaque2.PNG)
 ![Plaque_intermedière](images/les_faces/plaque2.PNG)
-#### 1.4.3 plaque inférieur
+#### 1.4.3 La plaque inférieur
 ![Plaque inférieur](images/les_faces/dimenssion_plaque3.PNG)
 ![Plaque_inférieur](images/les_faces/plaque3.PNG)
+#### 2. Les jointures
+Les jointures seront effectuées en utilisant une impression 3D, puis nous y ajouterons des inserts qui nous permettront d'associer les différentes faces entre elles.
+#### 2.1 Les 4 jointures arrière
+Quatre d'entre elles seront imprimées et permettront d'associer les plaques de gauche, de droite, de l'arrière, du  dessus et de la base du plateau.
+
+![jointure_b](images/les_faces/jointure_b.PNG)
+#### 2.2 Les jointures avant
+#### 2.2.1 Les jointures supérieures
+On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, du dessus et de la plaque avant supérieure.
+
+![jointure_a1](images/les_faces/jointure_a1.PNG)
+#### 2.2.2 Les jointures intermédiaires
+Chacune sera imprimée au nombre de deux et permettra de relier la plaque intermédiaire qui portera l'écran aux deux plaques supérieures et inférieurs
+![jointure_a2](images/les_faces/jointure_a2.PNG)
+![jointure_a3](images/les_faces/jointure_a3.PNG)
+#### 2.2.2 Les jointures inférieures
+On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, de la base du plateau et de la plaque avant inférieure.
+![jointure_a4](images/les_faces/jointure_a4.PNG)
+#### 2.3 Impression et ajout des inserts
+![impression_jointure](images/les_faces/jointure.PNG)
 
 
 ### Support en forme de matrice pour les neopixels

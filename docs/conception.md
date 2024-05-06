@@ -61,8 +61,47 @@ Toutes les faces latérales en plaque de bois devront être découpées au laser
 #### 1.4 La face avant
 Celle-ci sera composée de trois plaques de bois jointes entre elles en fonction de la hauteur de la maquette, avec une inclinaison de 157,034° par rapport aux deux autres.
 #### 1.4.1 La plaque supérieur
-![Plaque_supérieur](images/les_faces/dimenssion_plaque1.PNG)
-![Plaque_supérieur](images/les_faces/plaque1.PNG)
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    border-radius: 30%;
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/dimenssion_plaque1.PNG" alt="Photo Plaque_supérieur" class="square-image">
+        <p class="image-caption">Plaque_supérieur</p>
+    </div>
+    <div>
+        <img src="images/les_faces/plaque1.PNG" alt="Photo Plaque_supérieur" class="square-image">
+        <p class="image-caption">Plaque_supérieur</p>
+    </div>
+    
+</div>
+
+
+
+
+
+!Plaque_supérieur](images/les_faces/dimenssion_plaque1.PNG)
+!Plaque_supérieur](images/les_faces/plaque1.PNG)
 #### 1.4.2 la plaque intermédiaire
 ![Plaque_intermedière](images/les_faces/dimenssion_plaque2.PNG)
 ![Plaque_intermedière](images/les_faces/plaque2.PNG)
@@ -107,11 +146,11 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/jointure_a2.PNG" alt="Photo jointure_a2" class="rounded-image">
+        <img src="images/les_faces/jointure_a2.PNG" alt="Photo jointure_a2" class="square-image">
         <p class="image-caption">Jointure reliant les plaques supérieure et intermédiaire </p>
     </div>
     <div>
-        <img src="images/les_faces/jointure_a3.PNG" alt="Photo jointure_a3" class="rounded-image">
+        <img src="images/les_faces/jointure_a3.PNG" alt="Photo jointure_a3" class="square-image">
         <p class="image-caption">Jointure reliant les plaques intermédiaire et inférieure</p>
     </div>
     
@@ -147,11 +186,11 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/impression_jointure.jpg" alt="Photo impression jointure_a4" class="rounded-image">
+        <img src="images/les_faces/impression_jointure.jpg" alt="Photo impression jointure_a4" class="square-image">
         <p class="image-caption"> Impression en 3D des jointurs des jointures</p>
     </div>
     <div>
-        <img src="images/les_faces/ajout_insert.jpg" alt="Photo ajout_insert jointure_a3" class="rounded-image">
+        <img src="images/les_faces/ajout_insert.jpg" alt="Photo ajout_insert jointure_a3" class="square-image">
         <p class="image-caption"> Ajout des inserts</p>
     </div>
     

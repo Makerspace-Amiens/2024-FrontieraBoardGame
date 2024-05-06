@@ -95,7 +95,7 @@ img {
 }
 
 .square-image {
-   
+   border-radius: 30%;
     width: 150px; /* Taille des images */
     height: 150px;
 }
@@ -117,9 +117,6 @@ img {
     
 </div>
 
-
-!jointure_a2](images/les_faces/jointure_a2.PNG)
-!jointure_a3](images/les_faces/jointure_a3.PNG)
 #### 2.2.2 Les jointures inférieures
 On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, de la base du plateau et de la plaque avant inférieure.
 
@@ -138,7 +135,7 @@ img {
 }
 
 .square-image {
-    border-radius: 75%;
+    border-radius: 30%;
     width: 150px; /* Taille des images */
     height: 150px;
 }
@@ -160,9 +157,6 @@ img {
     
 </div>
 
-
-!impression_jointure](images/les_faces/impression_jointure.jpg)
-!ajout_insert](images/les_faces/ajout_insert.jpg)
 
 
 

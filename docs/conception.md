@@ -90,8 +90,8 @@ On imprimera deux d'entre elles qui permettront de combiner les plaques de gauch
 
 ![jointure_a4](images/les_faces/jointure_a4.PNG)
 #### 2.3 Impression et ajout des inserts
-![impression_jointure](images/impression_jointure.PNG)
-![ajout_insert](images/ajout_insert.PNG)
+![impression_jointure](images/les_faces/impression_jointure.jpg)
+![ajout_insert](images/les_faces/ajout_insert.jpg)
 
 
 

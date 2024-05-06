@@ -97,7 +97,7 @@ img {
 .square-image {
    border-radius: 30%;
     width: 150px; /* Taille des images */
-    height: 150px;
+    height: auto;
 }
 
 .image-caption {
@@ -137,7 +137,7 @@ img {
 .square-image {
     border-radius: 30%;
     width: 150px; /* Taille des images */
-    height: 150px;
+    height: auto;
 }
 
 .image-caption {

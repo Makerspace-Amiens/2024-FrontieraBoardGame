@@ -82,6 +82,41 @@ On imprimera deux d'entre elles qui permettront de combiner les plaques de gauch
 ![jointure_a1](images/les_faces/jointure_a1.PNG)
 #### 2.2.2 Les jointures intermédiaires
 Chacune sera imprimée au nombre de deux et permettra de relier la plaque intermédiaire qui portera l'écran aux deux plaques supérieures et inférieurs.
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.rounded-image {
+    border-radius: 75%;
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/jointure_a2.PNG" alt="Photo jointure_a2" class="rounded-image">
+        <p class="image-caption">Jointure reliant les plaques supérieure et intermédiaire </p>
+    </div>
+    <div>
+        <img src="images/les_faces/jointure_a3.PNG" alt="Photo jointure_a3" class="rounded-image">
+        <p class="image-caption">Jointure reliant les plaques intermédiaire et inférieure</p>
+    </div>
+    
+</div>
+
 
 ![jointure_a2](images/les_faces/jointure_a2.PNG)
 ![jointure_a3](images/les_faces/jointure_a3.PNG)
@@ -90,6 +125,42 @@ On imprimera deux d'entre elles qui permettront de combiner les plaques de gauch
 
 ![jointure_a4](images/les_faces/jointure_a4.PNG)
 #### 2.3 Impression et ajout des inserts
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.rounded-image {
+    border-radius: 75%;
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/impression_jointure.jpg" alt="Photo impression jointure_a4" class="rounded-image">
+        <p class="image-caption"> Impression en 3D des jointurs des jointures</p>
+    </div>
+    <div>
+        <img src="images/les_faces/ajout_insert.jpg" alt="Photo ajout_insert jointure_a3" class="rounded-image">
+        <p class="image-caption"> Ajout des inserts</p>
+    </div>
+    
+</div>
+
+
 ![impression_jointure](images/les_faces/impression_jointure.jpg)
 ![ajout_insert](images/les_faces/ajout_insert.jpg)
 

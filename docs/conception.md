@@ -75,7 +75,7 @@ img {
 
 .square-image {
     border-radius: 30%;
-    width: 150px; /* Taille des images */
+    width: 700px; /* Taille des images */
     height: auto;
 }
 

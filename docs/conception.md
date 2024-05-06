@@ -60,7 +60,7 @@ Toutes les faces latérales en plaque de bois devront être découpées au laser
 ![La face arrière](images/les_faces/arrière.PNG)
 #### 1.4 La face avant
 Celle-ci sera composée de trois plaques de bois jointes entre elles en fonction de la hauteur de la maquette, avec une inclinaison de 157,034° par rapport aux deux autres.
-#### 1.4.1 La plaque supérieur
+#### 1.4.1 La plaque supérieure
 <style>
 .grid-container {
     display: grid;
@@ -105,7 +105,7 @@ img {
 #### 1.4.2 la plaque intermédiaire
 ![Plaque_intermedière](images/les_faces/dimenssion_plaque2.PNG)
 ![Plaque_intermedière](images/les_faces/plaque2.PNG)
-#### 1.4.3 La plaque inférieur
+#### 1.4.3 La plaque inférieure
 ![Plaque inférieur](images/les_faces/dimenssion_plaque3.PNG)
 ![Plaque_inférieur](images/les_faces/plaque3.PNG)
 #### 2. Les jointures

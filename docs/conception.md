@@ -171,7 +171,7 @@ img {
 }
 
 .square-image {
-    width: 200px; /* Taille des images */
+    width: 150px; /* Taille des images */
     height: auto;
 }
 
@@ -212,10 +212,11 @@ img {
 .square-image {
     width: 500px; /* Taille des images */
     height: auto;
+      margin-top: 25px;
 }
 
 .image-caption {
-    margin-top: 25px; /* Espacement entre l'image et le texte */
+    margin-top: 5px; /* Espacement entre l'image et le texte */
 }
 </style>
 

@@ -225,7 +225,7 @@ img {
 }
 
 .square-image {
-    width: 150px; /* Taille des images */
+    width: 50px; /* Taille des images */
     height: auto;
 }
 

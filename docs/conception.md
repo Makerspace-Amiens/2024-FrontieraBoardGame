@@ -74,7 +74,6 @@ img {
 }
 
 .square-image {
-    border-radius: 30%;
     width: 1000px; /* Taille des images */
     height: auto;
 }
@@ -117,7 +116,6 @@ img {
 }
 
 .square-image {
-    border-radius: 30%;
     width: 1000px; /* Taille des images */
     height: auto;
 }
@@ -133,7 +131,7 @@ img {
         <p class="image-caption">la plaque intermédiaire</p>
     </div>
     <div>
-        <img src="images/les_faces/plaque2.PNG)" alt="Photo la plaque intermédiaire" class="square-image">
+        <img src="images/les_faces/plaque2.PNG" alt="Photo la plaque intermédiaire" class="square-image">
         <p class="image-caption">la plaque intermédiaire</p>
     </div>
     

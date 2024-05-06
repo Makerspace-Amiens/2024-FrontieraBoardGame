@@ -74,7 +74,7 @@ img {
 }
 
 .square-image {
-    width: 500px; /* Taille des images */
+    width: 800px; /* Taille des images */
     height: auto;
 }
 
@@ -116,7 +116,7 @@ img {
 }
 
 .square-image {
-    width: 500px; /* Taille des images */
+    width: 800px; /* Taille des images */
     height: auto;
 }
 
@@ -171,7 +171,7 @@ img {
 }
 
 .square-image {
-    width: 500px; /* Taille des images */
+    width: 200px; /* Taille des images */
     height: auto;
 }
 
@@ -215,7 +215,7 @@ img {
 }
 
 .image-caption {
-    margin-top: 5px; /* Espacement entre l'image et le texte */
+    margin-top: 25px; /* Espacement entre l'image et le texte */
 }
 </style>
 

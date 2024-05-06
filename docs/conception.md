@@ -81,11 +81,13 @@ On imprimera deux d'entre elles qui permettront de combiner les plaques de gauch
 
 ![jointure_a1](images/les_faces/jointure_a1.PNG)
 #### 2.2.2 Les jointures intermédiaires
-Chacune sera imprimée au nombre de deux et permettra de relier la plaque intermédiaire qui portera l'écran aux deux plaques supérieures et inférieurs
+Chacune sera imprimée au nombre de deux et permettra de relier la plaque intermédiaire qui portera l'écran aux deux plaques supérieures et inférieurs.
+
 ![jointure_a2](images/les_faces/jointure_a2.PNG)
 ![jointure_a3](images/les_faces/jointure_a3.PNG)
 #### 2.2.2 Les jointures inférieures
 On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, de la base du plateau et de la plaque avant inférieure.
+
 ![jointure_a4](images/les_faces/jointure_a4.PNG)
 #### 2.3 Impression et ajout des inserts
 ![impression_jointure](images/les_faces/jointure.PNG)

@@ -48,7 +48,34 @@ Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3
 
 #### 1. Les faces lattérals
 Toutes les faces latérales en plaque de bois devront être découpées au laser, avec des trous de 3 mm de diamètre pour faciliter la visse.
-![les_faces_lattérals](images/les_faces/lesfaces.PNG)
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 500px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/lesfaces.PNG" alt="Photo les_faces_lattérals" class="square-image">
+        <p class="image-caption"> les faces lattérals du plateau de jeu</p>
+    </div>    
+</div>
 #### 1.1 La faces de droite
 ![La_faces_de_droite](images/les_faces/dimenssion_droite.PNG)
 ![La_faces_de_droite](images/les_faces/droite.PNG)
@@ -239,7 +266,6 @@ img {
 .square-image {
     width: 500px; /* Taille des images */
     height: auto;
-      margin-top: 25px;
 }
 
 .image-caption {
@@ -250,7 +276,7 @@ img {
 <div class="grid-container">
     <div>
         <img src="images/les_faces/impression_jointure.jpg" alt="Photo impression jointure_a4" class="square-image">
-        <p class="image-caption"> Impression en 3D des jointurs des jointures</p>
+        <p class="image-caption"> Impression en 3D des jointures</p>
     </div>
     <div>
         <img src="images/les_faces/ajout_insert.jpg" alt="Photo ajout_insert jointure_a3" class="square-image">

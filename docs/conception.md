@@ -95,7 +95,7 @@ img {
 }
 
 .rounded-image {
-    border-radius: 75%;
+   
     width: 150px; /* Taille des images */
     height: 150px;
 }

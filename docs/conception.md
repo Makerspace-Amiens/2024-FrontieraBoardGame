@@ -86,12 +86,12 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/dimenssion_plaque1.PNG" alt="Photo Plaque_supérieur" class="square-image">
-        <p class="image-caption">Plaque_supérieur</p>
+        <img src="images/les_faces/dimenssion_plaque1.PNG" alt="Photo Plaque_supérieure" class="square-image">
+        <p class="image-caption">Plaque_supérieure</p>
     </div>
     <div>
-        <img src="images/les_faces/plaque1.PNG" alt="Photo Plaque_supérieur" class="square-image">
-        <p class="image-caption">Plaque_supérieur</p>
+        <img src="images/les_faces/plaque1.PNG" alt="Photo Plaque_supérieure" class="square-image">
+        <p class="image-caption">Plaque_supérieure</p>
     </div>
     
 </div>
@@ -100,8 +100,8 @@ img {
 
 
 
-!Plaque_supérieur](images/les_faces/dimenssion_plaque1.PNG)
-!Plaque_supérieur](images/les_faces/plaque1.PNG)
+!Plaque_supérieure](images/les_faces/dimenssion_plaque1.PNG)
+!Plaque_supérieure](images/les_faces/plaque1.PNG)
 #### 1.4.2 la plaque intermédiaire
 ![Plaque_intermedière](images/les_faces/dimenssion_plaque2.PNG)
 ![Plaque_intermedière](images/les_faces/plaque2.PNG)

@@ -74,8 +74,7 @@ img {
 }
 
 .square-image {
-    width: 2000px; /* Taille des images */
-    height: 1000px;
+    
 }
 
 .image-caption {
@@ -171,7 +170,6 @@ img {
 }
 
 .square-image {
-   border-radius: 30%;
     width: 150px; /* Taille des images */
     height: auto;
 }
@@ -211,7 +209,6 @@ img {
 }
 
 .square-image {
-    border-radius: 30%;
     width: 150px; /* Taille des images */
     height: auto;
 }

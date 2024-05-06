@@ -103,8 +103,47 @@ img {
 !Plaque_supérieure](images/les_faces/dimenssion_plaque1.PNG)
 !Plaque_supérieure](images/les_faces/plaque1.PNG)
 #### 1.4.2 la plaque intermédiaire
-![Plaque_intermedière](images/les_faces/dimenssion_plaque2.PNG)
-![Plaque_intermedière](images/les_faces/plaque2.PNG)
+
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    border-radius: 30%;
+    width: 1000px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/dimenssion_plaque2.PNG" alt="Photo la plaque intermédiaire" class="square-image">
+        <p class="image-caption">la plaque intermédiaire</p>
+    </div>
+    <div>
+        <img src="images/les_faces/plaque2.PNG)" alt="Photo la plaque intermédiaire" class="square-image">
+        <p class="image-caption">la plaque intermédiaire</p>
+    </div>
+    
+</div>
+
+
+
+
+!Plaque_intermedière](images/les_faces/dimenssion_plaque2.PNG)
+!Plaque_intermedière](images/les_faces/plaque2.PNG)
 #### 1.4.3 La plaque inférieure
 ![Plaque inférieur](images/les_faces/dimenssion_plaque3.PNG)
 ![Plaque_inférieur](images/les_faces/plaque3.PNG)

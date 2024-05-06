@@ -97,7 +97,7 @@ img {
 .rounded-image {
     border-radius: 75%;
     width: 150px; /* Taille des images */
-    height: auto;
+    height: 150px;
 }
 
 .image-caption {
@@ -140,7 +140,7 @@ img {
 .rounded-image {
     border-radius: 75%;
     width: 150px; /* Taille des images */
-    height: auto;
+    height: 150px;
 }
 
 .image-caption {

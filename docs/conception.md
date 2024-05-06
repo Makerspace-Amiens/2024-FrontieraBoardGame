@@ -94,7 +94,7 @@ img {
     
 }
 
-.rounded-image {
+.square-imge {
    
     width: 150px; /* Taille des images */
     height: 150px;

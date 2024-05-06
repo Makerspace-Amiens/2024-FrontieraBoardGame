@@ -97,10 +97,6 @@ img {
 
 
 
-
-
-!Plaque_supérieure](images/les_faces/dimenssion_plaque1.PNG)
-!Plaque_supérieure](images/les_faces/plaque1.PNG)
 #### 1.4.2 la plaque intermédiaire
 
 <style>
@@ -140,8 +136,6 @@ img {
 
 
 
-!Plaque_intermedière](images/les_faces/dimenssion_plaque2.PNG)
-!Plaque_intermedière](images/les_faces/plaque2.PNG)
 #### 1.4.3 La plaque inférieure
 ![Plaque inférieur](images/les_faces/dimenssion_plaque3.PNG)
 ![Plaque_inférieur](images/les_faces/plaque3.PNG)

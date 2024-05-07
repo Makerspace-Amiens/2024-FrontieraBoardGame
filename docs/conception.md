@@ -7,7 +7,7 @@ title: Conception et prototypage
 # Conception et prototypage
 ## I. **Conception de la maquette**
 ### Modèle 3D de la plaforme de jeu 
-Le plateau final devra avoir la forme ci-dessous avec un base de 200x200 mm, une face de dessus de 160x200 mm pour une hauteur de 120 mm.  
+La forme finale du plateau sera la suivante : base de 200x200 mm, face supérieure de 160x200 mm et hauteur de 120 mm.  
 <html lang="en">
   <head>
     <title>&lt;model-viewer&gt; template</title>
@@ -311,7 +311,7 @@ img {
 }
 
 .square-image {
-    width: 800px; /* Taille des images */
+    width: 200px; /* Taille des images */
     height: auto;
 }
 
@@ -330,8 +330,35 @@ img {
 #### 2.2 Les jointures avant
 #### 2.2.1 Les jointures supérieures
 On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, du dessus et de la plaque avant supérieure.
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
 
-![jointure_a1](images/les_faces/jointure_a1.PNG)
+img {
+    
+}
+
+.square-image {
+    width: 200px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/jointure_a1.PNG" alt="Photo jointure_a1" class="square-image">
+        <p class="image-caption">Les jointures supérieures</p>
+    </div>    
+</div>
+
 #### 2.2.2 Les jointures intermédiaires
 Chacune sera imprimée au nombre de deux et permettra de relier la plaque intermédiaire qui portera l'écran aux deux plaques supérieures et inférieurs.
 <style>

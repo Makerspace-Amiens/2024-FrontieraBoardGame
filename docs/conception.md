@@ -77,11 +77,74 @@ img {
     </div>    
 </div>
 #### 1.1 La faces de droite
-![La_faces_de_droite](images/les_faces/dimenssion_droite.PNG)
-![La_faces_de_droite](images/les_faces/droite.PNG)
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 500px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/dimenssion_droite.PNG" alt="Photo La faces de droite" class="square-image">
+        <p class="image-caption"> La faces de droite</p>
+    </div> 
+  <div>
+        <img src="images/les_faces/droite.PNG" alt="Photo La faces de droite" class="square-image">
+        <p class="image-caption"> La faces de droite</p>
+    </div> 
+</div>
+
+
 #### 1.2 La faces de gauche
-![La_faces_de_gauche](images/les_faces/dimenssion_gauche.PNG)
-![La_faces_de_gauche](images/les_faces/gauche.PNG)
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 500px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/dimenssion_gauche.PNG" alt="Photo La faces de gauche" class="square-image">
+        <p class="image-caption"> La faces de gauche</p>
+    </div> 
+  <div>
+        <img src="images/les_faces/gauche.PNG" alt="Photo La faces de gauche" class="square-image">
+        <p class="image-caption"> La faces de gauche</p>
+    </div> 
+</div>
+
 #### 1.3 La face arrière
 <style>
 .grid-container {
@@ -197,14 +260,73 @@ img {
 
 
 #### 1.4.3 La plaque inférieure
-![Plaque inférieur](images/les_faces/dimenssion_plaque3.PNG)
-![Plaque_inférieur](images/les_faces/plaque3.PNG)
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 800px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/dimenssion_plaque3.PNG" alt="Photo la plaque inférieure" class="square-image">
+        <p class="image-caption">la plaque inférieure</p>
+    </div>
+    <div>
+        <img src="images/les_faces/plaque3.PNG" alt="Photo la plaque inférieure" class="square-image">
+        <p class="image-caption">la plaque inférieure</p>
+    </div>
+    
+</div>
+
 #### 2. Les jointures
 Les jointures seront effectuées en utilisant une impression 3D, puis nous y ajouterons des inserts qui nous permettront d'associer les différentes faces entre elles.
 #### 2.1 Les 4 jointures arrière
 Quatre d'entre elles seront imprimées et permettront d'associer les plaques de gauche, de droite, de l'arrière, du  dessus et de la base du plateau.
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
 
-![jointure_b](images/les_faces/jointure_b.PNG)
+img {
+    
+}
+
+.square-image {
+    width: 800px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/jointure_b.PNG" alt="Photo jointure_b" class="square-image">
+        <p class="image-caption">Les 4 jointures arrière</p>
+    </div>    
+</div>
+
 #### 2.2 Les jointures avant
 #### 2.2.1 Les jointures supérieures
 On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, du dessus et de la plaque avant supérieure.

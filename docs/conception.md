@@ -496,7 +496,7 @@ img {
     {
         margin : auto;
         width : 6O0px;
-        height : auto;
+        height : 600px;
     }
 </style>
 

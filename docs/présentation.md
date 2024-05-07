@@ -19,7 +19,7 @@ img {
 
 .rounded-image {
     border-radius: 50%;
-    width: 150px; /* Taille des images */
+    width: 200px; /* Taille des images */
     height: auto;
 }
 
@@ -43,8 +43,8 @@ img {
     </div>
 </div>
 
-Nous sommes tous les trois étudiants à UniLaSalle Amiens en 3e année d'études d'ingénierie.
-Durant cette année, nous devons réaliser un projet de groupe, le nôtre sera la conception d'un jeu de société...
+Nous sommes trois étudiants à UniLaSalle Amiens, en train de poursuivre nos études d'ingénierie en 3e année.
+Cette année, nous avons l'obligation de mener à bien un projet de groupe, où notre objectif sera de concevoir un jeu de société qui implique 2 à 4 joueurs.
 
 |/| Programmation | Modélisation 3D | Assemblage |Circuit éléctronique|
 |:-:|:--:|:---:|:--:|:---:|

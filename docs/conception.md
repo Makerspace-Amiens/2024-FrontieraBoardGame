@@ -311,7 +311,7 @@ img {
 }
 
 .square-image {
-    width: 200px; /* Taille des images */
+    width: 10px; /* Taille des images */
     height: auto;
 }
 
@@ -343,7 +343,7 @@ img {
 }
 
 .square-image {
-    width: 200px; /* Taille des images */
+    width: 10px; /* Taille des images */
     height: auto;
 }
 
@@ -374,7 +374,7 @@ img {
 }
 
 .square-image {
-    width: 50px; /* Taille des images */
+    width: 10px; /* Taille des images */
     height: auto;
 }
 
@@ -410,7 +410,7 @@ img {
 }
 
 .square-image {
-    width: 50px; /* Taille des images */
+    width: 10px; /* Taille des images */
     height: auto;
 }
 

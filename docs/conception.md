@@ -529,7 +529,7 @@ img {
         <p class="image-caption"> La taille de la matrice</p>
     </div>
     <div>
-        <img src="images/les_faces/matice.JPG" alt="Photo matrice" class="square-image">
+        <img src="images/les_faces/matrice.jpg" alt="Photo matrice" class="square-image">
         <p class="image-caption"> Support des LEDs</p>
     </div>
     

@@ -43,10 +43,10 @@ La forme finale du plateau sera la suivante : base de 200x200 mm, face supérieu
         height : 650px;
     }
 </style>
-#### Dimenssionement du plateau
+#### Calcul de la taille du plateau
 Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3D ne sera pas utilisée pour l'ensemble de la maquette. Seules les faces supérieures et inférieures seront imprimées en 3D pour une épaisseur de 3 mm, ainsi que des petites pièces permettant de joindre chaque face entre elles pour obtenir la maquette finale. Les faces lattérales seront réalisées à partir de plaques de bois d'une épaisseur de 3 mm.
 
-#### 1. Les faces lattéraux
+### 1. Les faces lattéraux
 Toutes les faces latéraux en plaque de bois devront être découpées au laser, avec des trous de 3 mm de diamètre pour faciliter la visse.
 <style>
 .grid-container {
@@ -76,7 +76,7 @@ img {
         <p class="image-caption"> les faces lattéraux du plateau de jeu</p>
     </div>    
 </div>
-#### 1.1 La face de droite
+### 1.1 La face de droite
 <style>
 .grid-container {
     display: grid;
@@ -111,7 +111,7 @@ img {
 </div>
 
 
-#### 1.2 La face de gauche
+### 1.2 La face de gauche
 <style>
 .grid-container {
     display: grid;
@@ -145,7 +145,7 @@ img {
     </div> 
 </div>
 
-#### 1.3 La face arrière
+### 1.3 La face arrière
 <style>
 .grid-container {
     display: grid;
@@ -181,9 +181,9 @@ img {
 </div>
 
 
-#### 1.4 La face avant
+### 1.4 La face avant
 Celle-ci sera composée de trois plaques de bois jointes entre elles en fonction de la hauteur de la maquette, avec une inclinaison de 157,034° par rapport aux deux autres.
-#### 1.4.1 La plaque supérieure
+### 1.4.1 La plaque supérieure
 <style>
 .grid-container {
     display: grid;
@@ -220,7 +220,7 @@ img {
 
 
 
-#### 1.4.2 la plaque intermédiaire
+### 1.4.2 la plaque intermédiaire
 
 <style>
 .grid-container {
@@ -259,7 +259,7 @@ img {
 
 
 
-#### 1.4.3 La plaque inférieure
+### 1.4.3 La plaque inférieure
 <style>
 .grid-container {
     display: grid;
@@ -294,9 +294,9 @@ img {
     
 </div>
 
-#### 2. Les jointures
+### 2. Les jointures
 Les jointures seront effectuées en utilisant une impression 3D, puis nous y ajouterons des inserts qui nous permettront d'associer les différentes faces entre elles.
-#### 2.1 Les 4 jointures arrières
+### 2.1 Les 4 jointures arrières
 Quatre d'entre elles seront imprimées et permettront d'associer les plaques de gauche, de droite, de l'arrière, du  dessus et de la base du plateau.
 <style>
 .grid-container {
@@ -327,8 +327,8 @@ img {
     </div>    
 </div>
 
-#### 2.2 Les jointures avant
-#### 2.2.1 Les jointures supérieures
+### 2.2 Les jointures avant
+### 2.2.1 Les jointures supérieures
 On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, du dessus et de la plaque avant supérieure.
 <style>
 .grid-container {
@@ -359,7 +359,7 @@ img {
     </div>    
 </div>
 
-#### 2.2.2 Les jointures intermédiaires
+### 2.2.2 Les jointures intermédiaires
 Chacune sera imprimée au nombre de deux et permettra de relier la plaque intermédiaire qui portera l'écran aux deux plaques supérieures et inférieurs.
 <style>
 .grid-container {
@@ -395,7 +395,7 @@ img {
     
 </div>
 
-#### 2.2.2 Les jointures inférieures
+### 2.2.2 Les jointures inférieures
 On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, de la base du plateau et de la plaque avant inférieure.
 <style>
 .grid-container {
@@ -426,7 +426,7 @@ img {
     </div>  
 </div>
 
-#### 2.3 Impression et ajout des inserts
+### 2.3 Impression et ajout des inserts
 <style>
 .grid-container {
     display: grid;
@@ -495,10 +495,45 @@ img {
     #viewer
     {
         margin : auto;
-        width : 650px;
-        height : 650px;
+        width : 6O0px;
+        height : auto;
     }
 </style>
+
+### Impression de la matrice
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/dimension_matrice.PNG" alt="Photo dimension de la matrice" class="square-image">
+        <p class="image-caption"> La taille de la matrice</p>
+    </div>
+    <div>
+        <img src="images/les_faces/matice.jpg" alt="Photo matrice" class="square-image">
+        <p class="image-caption"> Support des LEDs</p>
+    </div>
+    
+</div>
 
 ## II. Pototypage
 ### A. Test de communication entre les LEDs neopixels et le µPC ESP32

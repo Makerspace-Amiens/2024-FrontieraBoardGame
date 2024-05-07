@@ -537,5 +537,10 @@ img {
 
 ## II. Pototypage
 ### A. Test de communication entre les LEDs neopixels et le µPC ESP32
+<div>
+        <img src="images/images_prototypage/support_en_forme_de_matrice.jpg" alt="Photo dimension de la matrice" class="square-image">
+        <p class="image-caption"> La taille de la matrice</p>
+    </div>
+<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ![test_de_fonctionement](images/images_prototypage/support_en_forme_de_matrice.jpg)

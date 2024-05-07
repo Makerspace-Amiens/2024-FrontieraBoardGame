@@ -46,8 +46,8 @@ La forme finale du plateau sera la suivante : base de 200x200 mm, face supérieu
 #### Dimenssionement du plateau
 Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3D ne sera pas utilisée pour l'ensemble de la maquette. Seules les faces supérieures et inférieures seront imprimées en 3D pour une épaisseur de 3 mm, ainsi que des petites pièces permettant de joindre chaque face entre elles pour obtenir la maquette finale. Les faces lattérales seront réalisées à partir de plaques de bois d'une épaisseur de 3 mm.
 
-#### 1. Les faces lattérals
-Toutes les faces latérales en plaque de bois devront être découpées au laser, avec des trous de 3 mm de diamètre pour faciliter la visse.
+#### 1. Les faces lattéraux
+Toutes les faces latéraux en plaque de bois devront être découpées au laser, avec des trous de 3 mm de diamètre pour faciliter la visse.
 <style>
 .grid-container {
     display: grid;
@@ -72,11 +72,11 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/lesfaces.PNG" alt="Photo les_faces_lattérals" class="square-image">
-        <p class="image-caption"> les faces lattérals du plateau de jeu</p>
+        <img src="images/les_faces/lesfaces.PNG" alt="Photo les_faces_lattéraux" class="square-image">
+        <p class="image-caption"> les faces lattéraux du plateau de jeu</p>
     </div>    
 </div>
-#### 1.1 La faces de droite
+#### 1.1 La face de droite
 <style>
 .grid-container {
     display: grid;
@@ -102,16 +102,16 @@ img {
 <div class="grid-container">
     <div>
         <img src="images/les_faces/dimenssion_droite.PNG" alt="Photo La faces de droite" class="square-image">
-        <p class="image-caption"> La faces de droite</p>
+        <p class="image-caption"> La face de droite</p>
     </div> 
   <div>
         <img src="images/les_faces/droite.PNG" alt="Photo La faces de droite" class="square-image">
-        <p class="image-caption"> La faces de droite</p>
+        <p class="image-caption"> La face de droite</p>
     </div> 
 </div>
 
 
-#### 1.2 La faces de gauche
+#### 1.2 La face de gauche
 <style>
 .grid-container {
     display: grid;
@@ -137,11 +137,11 @@ img {
 <div class="grid-container">
     <div>
         <img src="images/les_faces/dimenssion_gauche.PNG" alt="Photo La faces de gauche" class="square-image">
-        <p class="image-caption"> La faces de gauche</p>
+        <p class="image-caption"> La face de gauche</p>
     </div> 
   <div>
         <img src="images/les_faces/gauche.PNG" alt="Photo La faces de gauche" class="square-image">
-        <p class="image-caption"> La faces de gauche</p>
+        <p class="image-caption"> La face de gauche</p>
     </div> 
 </div>
 
@@ -296,7 +296,7 @@ img {
 
 #### 2. Les jointures
 Les jointures seront effectuées en utilisant une impression 3D, puis nous y ajouterons des inserts qui nous permettront d'associer les différentes faces entre elles.
-#### 2.1 Les 4 jointures arrière
+#### 2.1 Les 4 jointures arrières
 Quatre d'entre elles seront imprimées et permettront d'associer les plaques de gauche, de droite, de l'arrière, du  dessus et de la base du plateau.
 <style>
 .grid-container {
@@ -323,7 +323,7 @@ img {
 <div class="grid-container">
     <div>
         <img src="images/les_faces/jointure_b.PNG" alt="Photo jointure_b" class="square-image">
-        <p class="image-caption">Les 4 jointures arrière</p>
+        <p class="image-caption">Les 4 jointures arrières</p>
     </div>    
 </div>
 
@@ -397,8 +397,35 @@ img {
 
 #### 2.2.2 Les jointures inférieures
 On imprimera deux d'entre elles qui permettront de combiner les plaques de gauche, de droite, de la base du plateau et de la plaque avant inférieure.
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
 
-![jointure_a4](images/les_faces/jointure_a4.PNG)
+img {
+    
+}
+
+.square-image {
+    width: 50px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/jointure_a4.PNG" alt="Photo jointure_a4" class="square-image">
+        <p class="image-caption">Les jointures inférieures</p>
+    </div>  
+</div>
+
 #### 2.3 Impression et ajout des inserts
 <style>
 .grid-container {

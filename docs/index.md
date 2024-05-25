@@ -18,7 +18,8 @@ Le jeu consiste à conquérir le plus de territoires grâce à des défis intera
 • S'il réussit le défi, il gagne le double des cases qu'il a mises en jeu.  
 • S'il échoue, il perd les cases mises en jeu.  
 
-Une fois le défi achevé, c'est la fin du tour. La partie se termine lorsque le temps est écoulé ou lorsqu'il ne reste qu'un seul joueur sur le plateau. 
+Après avoir terminé le défi, c'est la fin du tour. Lorsque le nombre de cycles de la partie défini au début du jeu entre le joueur est atteint, la partie se termine ou il ne reste qu'un seul joueur sur le plateau. 
+
 ## Poster
 
 Ici vous publierez le poster de votre projet.

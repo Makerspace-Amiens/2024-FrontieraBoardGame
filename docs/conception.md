@@ -392,7 +392,7 @@ img {
         <p class="image-caption">Air de conquête</p>
     </div>
   <div>
-        <img src="images/les_faces/impresson_plateau.PNG" alt="Photo la plaque de dessus" class="square-image">
+        <img src="images/les_faces/impresson_plateau.jpg" alt="Photo la plaque de dessus" class="square-image">
         <p class="image-caption">Impressionde l'air de jeu</p>
     </div>
 </div>
@@ -565,9 +565,7 @@ img {
 </div>
 
 
-
-
-### Support en forme de matrice pour les neopixels
+### 3. Support en forme de matrice pour les neopixels
 <html lang="en">
   <head>
     <title>&lt;model-viewer&gt; template</title>
@@ -603,7 +601,7 @@ img {
     }
 </style>
 
-### Impression de la matrice
+#### Impression de la matrice
 <style>
 .grid-container {
     display: grid;
@@ -634,6 +632,45 @@ img {
     <div>
         <img src="images/les_faces/matrice.jpg" alt="Photo matrice" class="square-image">
         <p class="image-caption"> Support des LEDs</p>
+    </div>
+    
+</div>
+
+### 4. Assemblage des pièces de la maquette
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/vue_intérieure.PNG" alt="Photo assemblage" class="square-image">
+        <p class="image-caption"> Assemblage jour 1</p>
+    </div>
+    <div>
+        <img src="images/les_faces/vue_intérieure1.PNG" alt="Photo assemblage" class="square-image">
+        <p class="image-caption"> Assemblage jour 2</p>
+    </div>
+    <div>
+        <img src="images/les_faces/vue_dessus1.jpg" alt="Photo assemblage" class="square-image">
+        <p class="image-caption"> Assemblage jour 3</p>
     </div>
     
 </div>

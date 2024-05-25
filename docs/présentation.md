@@ -43,7 +43,7 @@ img {
     </div>
 </div>
 
-Nous formons un groupe de trois étudiants à UniLaSalle Amiens, qui étudient l'ingénierie en 3e année. Cette année, nous sommes tenus de réaliser un projet de groupe. Nous viserons à créer un jeu de société qui permettra interagir 2 à 4 joueurs.
+Nous formons un groupe de trois étudiants à UniLaSalle Amiens, qui étudient l'ingénierie en 3e année. Cette année, nous sommes tenus de réaliser un projet de groupe. Nous viserons à créer un jeu de société qui permettra d'interagir 2 à 4 joueurs.
 
 ### Matrice des compétences
 

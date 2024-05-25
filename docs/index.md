@@ -37,6 +37,6 @@ Ici vous publierez la vidéo de votre projet.
 - Une conclusion
 Si en stockage local : >50mo
 
-<video src="images/Présentation_Frontièra.mov" controls title="Présentation Frontiera"  style="width: 100%;"></video>
+<video src="images/Présentation_Frontièra.mov" controls title="Présentation de Frontiera"  style="width: 100%;"></video>
 
 ---

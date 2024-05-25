@@ -685,27 +685,7 @@ img {
 La conception du circuit électronique c'est fait sur le logiciel Kicad. 
 
 ### Étape 1: dessin de la shématique du circuit
-<style>
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    gap: 20px;
-    text-align: center; /* Pour centrer le texte sous les images */
-}
 
-img {
-    
-}
-
-.square-image {
-    width: 150px; /* Taille des images */
-    height: auto;
-}
-
-.image-caption {
-    margin-top: 5px; /* Espacement entre l'image et le texte */
-}
-</style>
 
 <div class="grid-container">
     <div>
@@ -809,11 +789,11 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/images/images_prototypage/support_en_forme_de_matrice.jpg" alt="Photo Prototypage" class="square-image">
-        <p class="image-caption"> test de fonctionnement entre LEDs & ESP32 </p>
+        <img src="images/images_prototypage/support_en_forme_de_matrice.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> Test de fonctionnement entre LEDs & ESP32 </p>
     </div>  
   <div>
-        <img src="images/les_faces/images/TFT_ESP32.jpg" alt="Photo Prototypage" class="square-image">
-        <p class="image-caption"> test de fonctionnement entre TFT & ESP32 </p>
+        <img src="images/les_faces/TFT_ESP32.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> Test de fonctionnement entre TFT & ESP32 </p>
     </div> 
 </div>

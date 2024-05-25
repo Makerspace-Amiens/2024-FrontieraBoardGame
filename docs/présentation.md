@@ -43,10 +43,11 @@ img {
     </div>
 </div>
 
-Nous sommes trois étudiants de UniLaSalle Amiens, en train de poursuivre nos études d'ingénierie en 3e année.
-Cette année, nous avons l'obligation de mener à bien un projet de groupe. Notre objectif sera de concevoir un jeu de société qui fera interagir 2 à 4 joueurs.
+Nous formons un groupe de trois étudiants à UniLaSalle Amiens, qui étudient l'ingénierie en 3e année. Cette année, nous sommes tenus de réaliser un projet de groupe. Nous viserons à créer un jeu de société qui permettra interagir 2 à 4 joueurs.
+
 ### Matrice des compétences
-|Compétences>| Programmation | Modélisation 3D | Assemblage |Circuit éléctronique|
+
+|/| Programmation | Modélisation 3D | Assemblage |Circuit éléctronique|
 |:-:|:--:|:---:|:--:|:---:|
 | **FALL Allioune** | 4 | 3| 4 |4|
 | **FOTSING Daryl** | 3 | 5 | 4|4|

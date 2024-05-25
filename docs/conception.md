@@ -321,13 +321,41 @@ img {
 <div class="grid-container">
     <div>
         <img src="images/les_faces/dimenssion_base.PNG" alt="Photo la plaque de base" class="square-image">
-        <p class="image-caption">la plaque inférieure</p>
+        <p class="image-caption">La plaque de base du plateau</p>
     </div>
     <div>
         <img src="images/les_faces/base.PNG" alt="Photo la plaque de base" class="square-image">
-        <p class="image-caption">la plaque inférieure</p>
+        <p class="image-caption">La plaque de base du plateau</p>
     </div>
+</div>
+L'ensemble du plateau reposera sur quatre repose-pieds en forme de cylindre qui sera obtenu par impréssion 3D. 
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
     
+}
+
+.square-image {
+    width: 800px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/Repose-pieds.PNG" alt="Photo la plaque de base" class="square-image">
+        <p class="image-caption">Support du plateau</p>
+    </div>
 </div>
 
 

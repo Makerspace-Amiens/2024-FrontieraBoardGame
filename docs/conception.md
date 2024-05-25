@@ -636,7 +636,10 @@ img {
     
 </div>
 
-### 4. Assemblage des pièces de la maquette
+### 4. Assemblage des pièces de la maquette:
+
+
+
 <style>
 .grid-container {
     display: grid;
@@ -675,7 +678,46 @@ img {
     
 </div>
 
-## II. Pototypage
+## II. Conception du circuit électronique [PCB]
+
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/Shématique.PNG" alt="Photo Circuit électronique" class="square-image">
+        <p class="image-caption"> Shématique </p>
+    </div>
+    <div>
+        <img src="images/les_faces/PCB.PNG" alt="Photo Circuit électronique" class="square-image">
+        <p class="image-caption"> PCB</p>
+    </div>
+    <div>
+        <img src="images/les_faces/Modèle3D.PNG" alt="Photo Circuit électronique" class="square-image">
+        <p class="image-caption"> Modèle 3D</p>
+    </div>
+    
+</div>
+
 ### A. Test de communication entre les LEDs neopixels et le µPC ESP32
 <div>
         <img src="images/images_prototypage/support_en_forme_de_matrice.jpg" alt="Photo dimension de la matrice" class="square-image">

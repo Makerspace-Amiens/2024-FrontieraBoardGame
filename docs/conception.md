@@ -5,7 +5,8 @@ title: Conception et prototypage
 ---
 
 # Conception et prototypage
-## I. **Conception de la maquette**
+## I. CONCEPTION
+## A. **Conception de la maquette**
 ### Modèle 3D de la plaforme de jeu 
 La forme finale du plateau sera la suivante : base de 200x200 mm, face supérieure de 160x200 mm et hauteur de 120 mm. Nous dessinerons ce plateau sur le logiciel de modelisation 3D Onshape. Ensuite, nous dessinerons chaque plaque qui formera le plateau final, ainsi que les pièces complémentaires, puis nous les imprimerons en 3D ou les découperons au laser.
 
@@ -679,8 +680,11 @@ img {
     
 </div>
 
-## II. Conception du circuit électronique [PCB]
+## B. Conception du circuit imprimé [PCB]
 
+La conception du circuit électronique c'est fait sur le logiciel Kicad. 
+
+### Étape 1: dessin de la shématique du circuit
 <style>
 .grid-container {
     display: grid;
@@ -705,25 +709,111 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/Shématique.PNG" alt="Photo Circuit électronique" class="square-image">
+        <img src="images/les_faces/Shématique_PCB.PNG" alt="Photo Circuit électronique" class="square-image">
         <p class="image-caption"> Shématique </p>
-    </div>
-    <div>
-        <img src="images/les_faces/PCB.PNG" alt="Photo Circuit électronique" class="square-image">
-        <p class="image-caption"> PCB</p>
-    </div>
-    <div>
-        <img src="images/les_faces/Modèle3D.PNG" alt="Photo Circuit électronique" class="square-image">
-        <p class="image-caption"> Modèle 3D</p>
-    </div>
-    
+    </div>    
 </div>
 
-### A. Test de communication entre les LEDs neopixels et le µPC ESP32
-<div>
-        <img src="images/images_prototypage/support_en_forme_de_matrice.jpg" alt="Photo dimension de la matrice" class="square-image">
-        <p class="image-caption"> La taille de la matrice</p>
-    </div>
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+### Étape 2: Réalisation du PCB
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
 
-![test_de_fonctionement](images/images_prototypage/support_en_forme_de_matrice.jpg)
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/PCB_sans_plan_de_masse.PNG" alt="Photo Circuit électronique" class="square-image">
+        <p class="image-caption"> PCB sans le plan de masse </p>
+    </div>
+  <div>
+        <img src="images/les_faces/PCB_F.PNG" alt="Photo Circuit électronique" class="square-image">
+        <p class="image-caption"> PCB avec la couche "Front" </p>
+    </div>
+  <div>
+        <img src="images/les_faces/PCB_B.PNG" alt="Photo Circuit électronique" class="square-image">
+        <p class="image-caption"> PCB avec la couche "Back" </p>
+    </div>
+</div>
+
+### Étape 3: Modèle 3D du PCB
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/Modèle_3D_PCB.PNG" alt="Photo Circuit électronique" class="square-image">
+        <p class="image-caption"> Visuel 3D du circuit </p>
+    </div>    
+</div>
+
+
+## II. PROTOTYPAGE
+### Test de communication entre les LEDs neopixels, le µPC ESP32 et le TFT
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/images/images_prototypage/support_en_forme_de_matrice.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> test de fonctionnement entre LEDs & ESP32 </p>
+    </div>  
+  <div>
+        <img src="images/les_faces/images/TFT_ESP32.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> test de fonctionnement entre TFT & ESP32 </p>
+    </div> 
+</div>

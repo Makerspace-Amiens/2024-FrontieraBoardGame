@@ -686,11 +686,7 @@ La conception du circuit électronique c'est fait sur le logiciel Kicad.
 
 ### Étape 1: dessin de la shématique du circuit
 
-
-<div>
-        <img src="images/les_faces/Shématique_PCB.PNG" alt="Photo Circuit électronique" class="square-image">
-        <p class="image-caption"> Shématique </p>
-</div>
+![Shématique](images/les_faces/Shématique_PCB.PNG)
 
 ### Étape 2: Réalisation du PCB
 <style>

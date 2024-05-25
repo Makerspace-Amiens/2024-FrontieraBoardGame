@@ -392,8 +392,8 @@ img {
         <p class="image-caption">Air de conquête</p>
     </div>
   <div>
-        <img src="images/les_faces/impresson_plateau.PNG" alt="Photo la plaque de dessus" class="square-image">
-        <p class="image-caption">Impressionde l'air de jeu</p>
+        <img src="images/les_faces/impression_plateau.jpg" alt="Photo la plaque de dessus" class="square-image">
+        <p class="image-caption">Impression de l'air de jeu</p>
     </div>
 </div>
 

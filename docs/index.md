@@ -22,20 +22,11 @@ Après avoir terminé le défi, c'est la fin du tour. Lorsque le nombre de cycle
 
 ## Poster
 
-Ici vous publierez le poster de votre projet.
-
-![Poster projet](images/poster.jpg)
+![Poster projet](images/poster.jpeg)
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-Si en stockage local : >50mo
+Présentation du projet :
 
 <video src="images/Présentation_Frontièra.mov" controls title="Présentation de Frontiera"  style="width: 100%;"></video>
 

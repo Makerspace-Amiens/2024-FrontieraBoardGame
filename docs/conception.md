@@ -661,11 +661,11 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/vue_intérieure.PNG" alt="Photo assemblage" class="square-image">
+        <img src="images/les_faces/vue_intérieure.jpg" alt="Photo assemblage" class="square-image">
         <p class="image-caption"> Assemblage jour 1</p>
     </div>
     <div>
-        <img src="images/les_faces/vue_intérieure1.PNG" alt="Photo assemblage" class="square-image">
+        <img src="images/les_faces/vue_intérieure1.jpg" alt="Photo assemblage" class="square-image">
         <p class="image-caption"> Assemblage jour 2</p>
     </div>
     <div>

@@ -702,7 +702,7 @@ img {
 }
 
 .square-image {
-    width: 150px; /* Taille des images */
+    width: 500px; /* Taille des images */
     height: auto;
 }
 
@@ -740,7 +740,7 @@ img {
 }
 
 .square-image {
-    width: 150px; /* Taille des images */
+    width: 400px; /* Taille des images */
     height: auto;
 }
 

@@ -358,6 +358,44 @@ img {
     </div>
 </div>
 
+### 1.4.5 La face de dessus du plateau
+
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 800px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/dimenssion_terrain_jeu.PNG" alt="Photo la plaque de base" class="square-image">
+        <p class="image-caption">Dimenssion du dessus du plateau</p>
+    </div>
+    <div>
+        <img src="images/les_faces/terrain_jeu.PNG" alt="Photo la plaque de dessus" class="square-image">
+        <p class="image-caption">Air de conquête</p>
+    </div>
+  <div>
+        <img src="images/les_faces/impresson_plateau.PNG" alt="Photo la plaque de dessus" class="square-image">
+        <p class="image-caption">Impressionde l'air de jeu</p>
+    </div>
+</div>
 
 ### 2. Les jointures
 Les jointures seront effectuées en utilisant une impression 3D, puis nous y ajouterons des inserts qui nous permettront d'associer les différentes faces entre elles.

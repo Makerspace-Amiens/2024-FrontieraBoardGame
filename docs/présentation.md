@@ -43,16 +43,16 @@ img {
     </div>
 </div>
 
-Nous sommes trois étudiants à UniLaSalle Amiens, en train de poursuivre nos études d'ingénierie en 3e année.
-Cette année, nous avons l'obligation de mener à bien un projet de groupe, où notre objectif sera de concevoir un jeu de société qui implique 2 à 4 joueurs.
-
-|/| Programmation | Modélisation 3D | Assemblage |Circuit éléctronique|
+Nous sommes trois étudiants de UniLaSalle Amiens, en train de poursuivre nos études d'ingénierie en 3e année.
+Cette année, nous avons l'obligation de mener à bien un projet de groupe. Notre objectif sera de concevoir un jeu de société qui fera interagir 2 à 4 joueurs.
+### Matrice des compétences
+|\Compétences| Programmation | Modélisation 3D | Assemblage |Circuit éléctronique|
 |:-:|:--:|:---:|:--:|:---:|
 | **FALL Allioune** | 4 | 3| 4 |4|
 | **FOTSING Daryl** | 3 | 5 | 4|4|
 | **MIHINDOU MIHINDOU Yanis** | 5 | 3 | 4 |4|
 
-### Attribution des rôles
-- *Daryl* est en charge de la modélisation 3D 
-- *Fall* est en charge de la gestion des matériaux
-- *Yanis* est en charge de la programmation
+### Division des tâches et des responsabilités:
+- *Daryl* est en charge de la modélisation 3D.
+- *Fall* est en charge de la conception du circuit électronique.
+- *Yanis* est en charge de la programmation.

@@ -328,7 +328,7 @@ img {
         <p class="image-caption">La plaque de base du plateau</p>
     </div>
 </div>
-L'ensemble du plateau reposera sur quatre repose-pieds en forme de cylindre qui sera obtenu par impréssion 3D. 
+Le plateau sera assis sur quatre repose-pieds en forme de cylindre, fabriqués à l'aide d'une impréssion 3D. 
 <style>
 .grid-container {
     display: grid;

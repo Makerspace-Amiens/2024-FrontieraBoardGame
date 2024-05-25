@@ -7,7 +7,7 @@ title: Conception et prototypage
 # Conception et prototypage
 ## I. **Conception de la maquette**
 ### Modèle 3D de la plaforme de jeu 
-La forme finale du plateau sera la suivante : base de 200x200 mm, face supérieure de 160x200 mm et hauteur de 120 mm.Nous dessinerons ce plateau sur le logiciel de modelisation 3D Onshape. Ensuite, nous dessinerons chaque plateau qui formera le plateau final, ainsi que les pièces complémentaires, puis nous les imprimerons en 3D ou les découperons au laser.
+La forme finale du plateau sera la suivante : base de 200x200 mm, face supérieure de 160x200 mm et hauteur de 120 mm. Nous dessinerons ce plateau sur le logiciel de modelisation 3D Onshape. Ensuite, nous dessinerons chaque plaque qui formera le plateau final, ainsi que les pièces complémentaires, puis nous les imprimerons en 3D ou les découperons au laser.
 
 <html lang="en">
   <head>
@@ -45,10 +45,11 @@ La forme finale du plateau sera la suivante : base de 200x200 mm, face supérieu
     }
 </style>
 #### Calcul de la taille du plateau
-Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3D ne sera pas utilisée pour l'ensemble de la maquette. Seule la face supérieure seront imprimées en 3D pour une épaisseur de 3 mm, ainsi que des petites pièces permettant de joindre chaque face entre elles pour obtenir la maquette finale. Les faces lattérales seront réalisées à partir de plaques de bois d'une épaisseur de 3 mm.
+Afin de gagner du temps et de réduire les coûts des matériaux, l'impression 3D ne sera pas utilisée pour l'ensemble de la maquette. Seule la face supérieure sera imprimée en 3D pour une épaisseur de 3 mm, ainsi que des petites pièces permettant de joindre chaque face entre elles pour obtenir la maquette finale. Les faces lattérales seront réalisées à partir de plaques de bois d'une épaisseur de 3 mm.
 
 ### 1. Les faces lattéraux
-Toutes les faces latéraux en plaque de bois devront être découpées au laser, avec des trous de 3 mm de diamètre pour faciliter la visse.
+Toutes les faces latérales en plaque de bois devront être découpées au laser, avec des trous de 3 mm de diamètre pour faciliter la visse.
+
 <style>
 .grid-container {
     display: grid;

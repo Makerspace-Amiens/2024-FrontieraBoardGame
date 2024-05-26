@@ -22,7 +22,7 @@ Après avoir terminé le défi, c'est la fin du tour. Lorsque le nombre de cycle
 
 ## Poster
 
-![Poster projet](images/poster.jpeg)
+![Poster projet](images/Poster_F.jpeg)
 
 ## Vidéo
 

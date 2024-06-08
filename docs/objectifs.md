@@ -9,9 +9,10 @@ Ce projet vise à créer un jeu de plateau multijoueur. Développé en parallèl
 
 # Existant
 ## Inspiration du jeu
-* Frontiera est, à la base, inspiré de Cartes et Territoires, un mode de jeu issu de Splatoon 3, consistant à étendre sonterritoire en disposant des motifs sur un plateau. Voici un [projet fan](https://github.com/AndrioCelos/TableturfBattleApp/tree/main) ayant reproduit ce mode en application web. 
+* À l'origine, Frontiera s'inspire de Cartes et Territoires, un jeu de Splatoon 3 qui consiste à étendre son territoire en disposant des motifs sur un plateau.
+Voici un [projet fan](https://github.com/AndrioCelos/TableturfBattleApp/tree/main) qui a réalisé une application web qui reproduit ce mode.
 
-* Les mini-jeux s'inspirent, eux, des jeux flash. //Poster ici des exemples de jeux qui ressemblent à nos mini jeux ?
+* Les mini-jeux s'inspirent, eux, des jeux flash. Poster ici des exemples de jeux qui ressemblent à nos mini jeux ?
 
 # Cahier des Charges
 Le jeu devra contenir les elements suivants :
@@ -23,7 +24,7 @@ Le jeu devra proposer un menu permettant de selectionner :
 
 ## Plateau
 * Délimiter le jeu dans le temps en indiquant le nombre de cycle entre 20 et 30 cycles.
-* Etat des cases (couleurs)
+* Etat des cases (couleurs).
 * Choix entre defi et duel, le jeu devra determiner si le choix est possible ou non et agire en conséquence
 * Possibilité de choisir les cases convoitées (le jeu propose les différentes possibilités)
 * Fin de partie (gagnant, scores)

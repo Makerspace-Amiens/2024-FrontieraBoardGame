@@ -53,7 +53,7 @@ Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les ban
    - Résolution 320x240, compatible couleurs 18 bits (262 000)
    -  Prend en charge les polices haute résolution de grande taille.
    - Interface numérique 8 bits, plus 4 ou 5 lignes de contrôle (12 broches minimum) ou mode SPI avec 4 ou 5 lignes de données/contrôle SPI (4 broches minimum)
-   - ### Compatible 5V ! Utiliser avec une logique 3,3 V ou 5 V telle qu'un Arduino
+### Compatible 5V ! Utiliser avec une logique 3,3 V ou 5 V telle qu'un Arduino
    - Régulateur LDO 3,3 V @ 150 mA intégré
    - Rétroéclairage à 6 LED blanches avec amplification de courant constant DC/DC. Vous pouvez atténuer le rétroéclairage par PWM
    - 1x20 en-têtes pour une planche à pain facile
@@ -86,18 +86,16 @@ Cette bande à LEDs basée sur le SK6812 peut être mise en cascade avec les ban
 * Couleur principale : ton argent, noir ; Taille (broche non incluse): 14 x 11 x 9 mm / 0,55 pouce x 0,43 pouce x 0,35 pouce (L * W * H)
 
 6. **Un interrupteur**
-
+Il s'agit de contrôler le flux de courant électrique, en ouvrant ou en fermant un interrupteur, le circuit électronique peut être allumé ou éteint en fonction des besoins. Il est essentiel qu'il puisse supporter un courant de 2A.
 ![interrupteur](images/interrupteur.jpg)
-![interrupteurs](images/dimenssion_interrupteur.PNG)
 
 [Détail de l'interrupteur](https://www.gotronic.fr/art-interrupteur-c6053r-27915.htm)
 
-7. **Les resistances**
-  - Une resistance de 220 Ohms
-  - 7 resistances de 1K Ohms
+7. **La résistance**
+  - Une résistance de 1kΩ : elle sera connectée à l'un des pins de données du microcontroleur et à la broche de données de la bande de LEDs neopixel, ce qui permettra de limiter le courant qui traverse la broche de données, ce qui garantira la protection des LEDs et du microcontrôleur auquel elles sont connectées. Cela garantira une communication fiable entre le microcontroleur et les LEDs neopixel.
   
 8.  **Le condansateur**
-  - Un condansateur de 2200µF
+  - Un condansateur de 2200µF : Il sera connecté entre la broche plus (+) et la broche moin(-) de la bande de LEDs neopixel, ce qui permettra de lisser l'alimentation électrique fournie aux LEDs. Ceci permettra de reduire les fluctuations de tension et d'assurer un bon fonctionnement des neopixels, notamment lors de variations rapides de luminosité ou de couleurs.
 
 9. **Feuille PVC transparente**
 - Dimenssion :50 x 70 cm - 0,5 mm

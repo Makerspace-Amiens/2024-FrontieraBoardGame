@@ -900,7 +900,7 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/Modèle1.jpg" alt="Photo Prototypage" class="square-image">
+        <img src="images/les_faces/Modèle1.PNG" alt="Photo Prototypage" class="square-image">
         <p class="image-caption"> Modèle de plateau proposé</p>
     </div>  
   <div>

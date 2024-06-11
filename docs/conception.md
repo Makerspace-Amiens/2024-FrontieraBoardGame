@@ -713,13 +713,42 @@ img {
 
 ## B. Conception du circuit imprimé [PCB]
 
-La conception du circuit électronique c'est fait sur le logiciel Kicad. 
+La conception du circuit électronique va se faire sur le logiciel Kicad. 
+### Étape 1: Schéma fonctionnel
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
 
-### Étape 1: dessin de la shématique du circuit
+img {
+    
+}
+
+.square-image {
+    width: 20px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/Schéma_fctl.PNG" alt="Photo Schéma" class="square-image">
+        <p class="image-caption"> Schéma fonctionnel du circuit</p>
+    </div>  
+</div>
+
+### Étape 2: dessin de la shématique du circuit
 
 ![Shématique](images/les_faces/Shématique_PCB.PNG)
 
-### Étape 2: Réalisation du PCB
+### Étape 3: Réalisation du PCB
 <style>
 .grid-container {
     display: grid;
@@ -757,7 +786,7 @@ img {
     </div>
 </div>
 
-### Étape 3: Modèle 3D du PCB
+### Étape 4: Modèle 3D du PCB
 <style>
 .grid-container {
     display: grid;

@@ -694,7 +694,7 @@ La conception du circuit électronique va se faire sur le logiciel Kicad.
 
 ### Étape 2: dessin de la shématique du circuit
 
-![Schématique](images/les_faces/Shématique_PCB.PNG)
+![Schématique](images/les_faces/Schématique_PCB.PNG)
 
 ### Étape 3: Réalisation du PCB
 <style>
@@ -721,15 +721,15 @@ img {
 
 <div class="grid-container">
     <div>
-        <img src="images/les_faces/PCB_sans_plan_de_masse.PNG" alt="Photo Circuit électronique" class="square-image">
+        <img src="images/les_faces/PCB_sans_plan_masse.PNG" alt="Photo Circuit électronique" class="square-image">
         <p class="image-caption"> PCB sans le plan de masse </p>
     </div>
   <div>
-        <img src="images/les_faces/PCB_F.PNG" alt="Photo Circuit électronique" class="square-image">
+        <img src="images/les_faces/PCB_Front.PNG" alt="Photo Circuit électronique" class="square-image">
         <p class="image-caption"> PCB avec la couche "Front" </p>
     </div>
   <div>
-        <img src="images/les_faces/PCB_B.PNG" alt="Photo Circuit électronique" class="square-image">
+        <img src="images/les_faces/PCB_Back.PNG" alt="Photo Circuit électronique" class="square-image">
         <p class="image-caption"> PCB avec la couche "Back" </p>
     </div>
 </div>

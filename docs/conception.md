@@ -5,7 +5,8 @@ title: Conception et prototypage
 ---
 
 # Conception et prototypage
-## I. SCHÉMA BLOc
+## I. SCHÉMA BLOC
+Les joueurs vont communiquer avec le plateau de LEDs en utilisant l'écran tactil TFT via le microcontrôleur ESP32.
 
 ![Shéma_bloc](images/les_faces/Schéma_bloc.PNG)
 ## II. CONCEPTION

@@ -761,7 +761,11 @@ img {
     <div>
         <img src="images/les_faces/Modèle_3D_PCB.PNG" alt="Photo Circuit électronique" class="square-image">
         <p class="image-caption"> Visuel 3D du circuit </p>
-    </div>    
+    </div>
+  <div>
+        <img src="images/les_faces/Modèle_physique.jpg" alt="Photo Circuit électronique" class="square-image">
+        <p class="image-caption"> résultat physique du circuit </p>
+    </div>
 </div>
 
 

@@ -764,7 +764,7 @@ img {
     </div>
   <div>
         <img src="images/les_faces/Modèle_physique.jpg" alt="Photo Circuit électronique" class="square-image">
-        <p class="image-caption"> résultat physique du circuit </p>
+        <p class="image-caption"> Résultat physique du circuit </p>
     </div>
 </div>
 
@@ -801,5 +801,110 @@ img {
   <div>
         <img src="images/les_faces/TFT_ESP32.jpg" alt="Photo Prototypage" class="square-image">
         <p class="image-caption"> Test de fonctionnement entre TFT & ESP32 </p>
+    </div> 
+</div>
+
+### Programmation de la première interface de jeu
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/Programmation1.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> Début de la programmation</p>
+    </div>  
+  <div>
+        <img src="images/les_faces/Programmation2.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> Début de la programmation</p>
+    </div> 
+</div>
+
+
+### Assamblage final
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/assamblage1.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> Assamblage</p>
+    </div>  
+  <div>
+        <img src="images/les_faces/Assamblage2.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> Vue final du plateau de jeu</p>
+    </div> 
+</div>
+
+## IV. Perspective d'évolution
+Frontiéra est un jeu où les joueurs interagissent entre eux à travers un écran unique. Afin de perfectionner à l'avenir, nous suggérons un plateau à quatre écrans qui permet à chaque joueur d'avoir son propre écran de contrôle. Afin d'accomplir cela, quatre microcontrôleurs seront nécessaires pour gérer ces écrans tactiles. La communication en CAN bus est possible pour ces microcontrôleurs, avec un des microcontrôleurs en tant que maître de la communication et les trois autres en tant qu'esclaves.
+
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 150px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/Modèle1.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> Modèle de plateau proposé</p>
+    </div>  
+  <div>
+        <img src="images/les_faces/ESP32_CAN.jpg" alt="Photo Prototypage" class="square-image">
+        <p class="image-caption"> Les microcontrôleurs</p>
     </div> 
 </div>

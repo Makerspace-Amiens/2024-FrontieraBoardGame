@@ -6,6 +6,35 @@ title: Conception et prototypage
 
 # Conception et prototypage
 ## I. SCHÉMA BLOC
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    text-align: center; /* Pour centrer le texte sous les images */
+}
+
+img {
+    
+}
+
+.square-image {
+    width: 20px; /* Taille des images */
+    height: auto;
+}
+
+.image-caption {
+    margin-top: 5px; /* Espacement entre l'image et le texte */
+}
+</style>
+
+<div class="grid-container">
+    <div>
+        <img src="images/les_faces/Schéma_bloc.PNG" alt="Photo Schéma" class="square-image">
+        <p class="image-caption"> Schéma bloc</p>
+    </div>  
+</div>
+
 [Schéma_bloc](images/les_faces/Schéma_bloc.PNG)
 ## II. CONCEPTION
 ## A. **Conception de la maquette**

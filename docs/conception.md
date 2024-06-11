@@ -35,7 +35,6 @@ img {
     </div>  
 </div>
 
-[Schéma_bloc](images/les_faces/Schéma_bloc.PNG)
 ## II. CONCEPTION
 ## A. **Conception de la maquette**
 ### Modèle 3D de la plaforme de jeu 

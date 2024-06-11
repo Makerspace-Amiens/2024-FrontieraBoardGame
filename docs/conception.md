@@ -5,7 +5,9 @@ title: Conception et prototypage
 ---
 
 # Conception et prototypage
-## I. CONCEPTION
+## I. SCHÉMA BLOC
+[Schéma_bloc]()
+## II. CONCEPTION
 ## A. **Conception de la maquette**
 ### Modèle 3D de la plaforme de jeu 
 La forme finale du plateau sera la suivante : base de 200x200 mm, face supérieure de 160x200 mm et hauteur de 120 mm. Nous dessinerons ce plateau sur le logiciel de modelisation 3D Onshape. Ensuite, nous dessinerons chaque plaque qui formera le plateau final, ainsi que les pièces complémentaires, puis nous les imprimerons en 3D ou les découperons au laser.
@@ -758,7 +760,7 @@ img {
 </div>
 
 
-## II. PROTOTYPAGE
+## III. PROTOTYPAGE
 ### Test de communication entre les LEDs neopixels, le µPC ESP32 et le TFT
 <style>
 .grid-container {

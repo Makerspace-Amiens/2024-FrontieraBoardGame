@@ -805,7 +805,7 @@ img {
 </div>
 
 
-<video src="images/les_faces/Vidéo_LED.mp4" controls title="Programmation des LEDs"  style="width: 60%;"></video>
+<video src="images/les_faces/Vidéo_LED.mp4" controls title="Programmation des LEDs"  style="width: 50%;"></video>
 
 
 ### Programmation de la première interface de jeu
